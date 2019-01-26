@@ -89,8 +89,11 @@ Unzip the Icelandic language pack to Magento 2 root folder. In this guide, we ex
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/is_is
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-icelandic-language-pack` to `is_is`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Icelandic pack manually, you have to access to your serv
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `is_IS.zip` into `app/i18n/mageplaza/is_IS/is_IS.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/is_is/is_IS.csv`
+
+See this screenshot
+
+![Icelandic pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
