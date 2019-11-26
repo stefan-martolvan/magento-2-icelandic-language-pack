@@ -1,0 +1,188 @@
+Mageplaza,Mageplaza
+"Close popup","Loka popup",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Þú hefur skoðað og brugðist við öllum kerfis skilaboðum. Endurnýjaðu síðuna til að heinsa boð um kerfis skilaboð.",module,Magento_AdminNotification
+"Manage Shopping Cart","Sjá um vörukörfu",module,Magento_AdvancedCheckout
+"Create Order","Gera pöntun",module,Magento_AdvancedCheckout
+"Back","Til baka",module,Magento_AdvancedCheckout
+"Add Products","Bæta við vörum",module,Magento_AdvancedCheckout
+"Update Items and Quantities","Uppfæra vörur og magn",module,Magento_AdvancedCheckout
+"Are you sure you want to clear your cart?","Eru viss umað þú viljir hreinsa úr körfunni?",module,Magento_AdvancedCheckout
+"Clear my shopping cart","Tæma körfu",module,Magento_AdvancedCheckout
+"Add selections to my cart","Bæta vali við körfu",module,Magento_AdvancedCheckout
+"Cancel","Hætta við",module,Magento_AdvancedCheckout
+"Shopping Cart for %1 in %2","Karfa fyrir %1 í %2",module,Magento_AdvancedCheckout
+"Select products you want to buy","Veldu vörur sem þú vilt kaupa",module,Magento_AdvancedCheckout
+"Product","Vöru",module,Magento_AdvancedCheckout
+"Price","Verð",module,Magento_AdvancedCheckout
+"Quantity","Magn",module,Magento_AdvancedCheckout
+"Products in the Comparison List (%1)","Vörur í samanburðar lista (%1)",module,Magento_AdvancedCheckout
+"Last ordered items (%1)","Vörur seldar síðast (%1)",module,Magento_AdvancedCheckout
+"Products","Vörur",module,Magento_AdvancedCheckout
+"ID","ID",module,Magento_AdvancedCheckout
+"SKU","Vörunúmer",module,Magento_AdvancedCheckout
+"Recently Compared Products (%1)","Nýlega samanbornar vörur (%1)",module,Magento_AdvancedCheckout
+"Recently Viewed Products (%1)","Nýlega skoðaðar vörur (%1)",module,Magento_AdvancedCheckout
+"Add to Shopping Cart by SKU","Bæta í körfu eftir vörunúmeri",module,Magento_AdvancedCheckout
+"Add to Shopping Cart","Setja í körfu",module,Magento_AdvancedCheckout
+"Wish List (%1)","Óskalisti (%1)",module,Magento_AdvancedCheckout
+"Apply","Virkja",module,Magento_AdvancedCheckout
+"Configure","Stilla",module,Magento_AdvancedCheckout
+"Add to Order by SKU","Bæta við pöntun eftir vörunúmeri",module,Magento_AdvancedCheckout
+"Add to Order","Bæta við pöntun",module,Magento_AdvancedCheckout
+"Add Products to Order","Bæta vörum við pöntun",module,Magento_AdvancedCheckout
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> vara(öur) þarfnast athygli.</span>",module,Magento_AdvancedCheckout
+"Remove All","Fjarlægja allt",module,Magento_AdvancedCheckout
+"Only %1%2%3 left in stock","Aðeins %1%2%3 eftir á lager",module,Magento_AdvancedCheckout
+"You can buy up to %1 of these per purchase.","Þú gertur keypt allt að %1 þessu í hvert skipti.",module,Magento_AdvancedCheckout
+"You must buy at least %1 of these per purchase.","Það þarf að kaupa minnst %1 af þessu í pöntun.",module,Magento_AdvancedCheckout
+"Specify the product's options.","Vejið valmöguleika vörunnar.",module,Magento_AdvancedCheckout
+"Alert me when this item is available.","Látið mig vita þegar varan er til.",module,Magento_AdvancedCheckout
+"We can't find this customer.","Við finnum ekki þennan viðskiptavin.",module,Magento_AdvancedCheckout
+"Shopping cart management is disabled for this customer.","Umsjón körfu er óvirk fyrir þennan viðskiptavin.",module,Magento_AdvancedCheckout
+"We can't find this store.","Við finnum ekki þessa verslun.",module,Magento_AdvancedCheckout
+"Customers","Viðskiptavinir",module,Magento_AdvancedCheckout
+"Shopping Cart","Karfa",module,Magento_AdvancedCheckout
+"Sorry, something went wrong. You can find out more in the error log.","Afsakið, seitthvað misfórst. Nánari upplýsingar í villu skrá.",module,Magento_AdvancedCheckout
+"You do not have access to this.","Þú hefur ekki aðgang að þessu.",module,Magento_AdvancedCheckout
+"Ordered item id is not received.","ID vöru í pöntun er ekki móttekið.",module,Magento_AdvancedCheckout
+"Ordered item is not loaded.","Pöntuð vara er ekki hlaðin.",module,Magento_AdvancedCheckout
+"Quote item id is not received.","Tilboð vöru id er ekki móttekið.",module,Magento_AdvancedCheckout
+"Quote item is not loaded.","Vara í tilboði er ekki hlaðin.",module,Magento_AdvancedCheckout
+"The wish list item id is not received.","Ókslalista vöru id er ekki móttekið.",module,Magento_AdvancedCheckout
+"The wish list item is not loaded.","Óskalista vara er ekki hlaðin.",module,Magento_AdvancedCheckout
+"An error has occurred. See error log for details.","Það ko upp villa. sjáið nánar í villu skrá.",module,Magento_AdvancedCheckout
+"You cannot configure a product.","Þú gertu ekki stillt vöru.",module,Magento_AdvancedCheckout
+"You removed the items.","Þú fjarlægðir vörurnar.",module,Magento_AdvancedCheckout
+"You removed the item.","Þú fjarlægðir vörurna.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","Þú bættir við %1 í körfuna þína.",module,Magento_AdvancedCheckout
+"You cannot add a product.","Þú getur ekki bætt við vöru.",module,Magento_AdvancedCheckout
+"Order by SKU","Pöntun eftir vörunúmeri",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","Vörunúmerið fannst ekki í vörulistanum.",module,Magento_AdvancedCheckout
+"Availability: Out of stock.","Availability: Uppselt.",module,Magento_AdvancedCheckout
+"We don't have as many of these as you want.","Við eigum ekki allt magnis sem þú óskar.",module,Magento_AdvancedCheckout
+"You can't add this many to your cart.","Þú gertu ekki bætt svona mörgum í körfuna.",module,Magento_AdvancedCheckout
+"You need to choose options for your item.","Þú verður að velja valkosti vörunnar.",module,Magento_AdvancedCheckout
+"We can't add the item to your cart.","Við getum ekki bætt vörunni í körfuna.",module,Magento_AdvancedCheckout
+"Please enter an actual number in the ""Qty"" field.","Vinsamlega setjið tölu í ""Magn"" reitinn.",module,Magento_AdvancedCheckout
+"This product is assigned to another website.","Þessi vara fylgir öðum vef.",module,Magento_AdvancedCheckout
+"You can add only enabled products.","Þú getur aðeins bætt við virkum vörum.",module,Magento_AdvancedCheckout
+"You cannot upload this file.","Þú getur ekki hlaðið upp þessari skrá.",module,Magento_AdvancedCheckout
+"The file is empty.","Skráin er tóm.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Þú hefur ekki sett inn vörunúmer. Vinsamlega <a href=""%1"">smelltu hér</a> til að bæta við vöru(m) eftir vörunúmeri.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU.","Þú er ekki búinn að setja inn vörunúmer.",module,Magento_AdvancedCheckout
+"We can't add a product to cart by id ""%1"".","Við getum ekki bætt við vöru eftir id ""%1"".",module,Magento_AdvancedCheckout
+"Something went wrong while reordering this product.","Eitthvað misfórs við endur pöntun á þessari vöru.",module,Magento_AdvancedCheckout
+"We can't find this wish list.","Þessi óskalisti finnst ekki.",module,Magento_AdvancedCheckout
+"You added %1 product to your shopping cart.","Þú bættir %1 vöru í körfuna þína.",module,Magento_AdvancedCheckout
+"You added %1 products to your shopping cart.","Þú bættir %1 vörum í körfuna þína.",module,Magento_AdvancedCheckout
+"%1 product requires your attention.","%1 vara þarfnast athygli þinnar.",module,Magento_AdvancedCheckout
+"%1 products require your attention.","%1 vörur þarfnast athygli þinnar.",module,Magento_AdvancedCheckout
+"Yes, for Specified Customer Groups","Já, fyrir tilgreinda viðskiptahópa",module,Magento_AdvancedCheckout
+"Yes, for Everyone","Já, fyrir alla",module,Magento_AdvancedCheckout
+"No","Nei",module,Magento_AdvancedCheckout
+"The file is corrupt.","Skráin er skemmd.",module,Magento_AdvancedCheckout
+"Please upload the file in .csv format.","Vinsamlega hladdu upp skránni í .csv formi.",module,Magento_AdvancedCheckout
+"%1 item(s) need your attention.","%1 vara(örur) þarfnast athygli þinnar.",module,Magento_AdvancedCheckout
+"Apply Coupon Code","Virkja afsláttar kóða",module,Magento_AdvancedCheckout
+"Remove Coupon Code","Fjarlægja  afsláttar kóða",module,Magento_AdvancedCheckout
+"Remove","Fjarlægja",module,Magento_AdvancedCheckout
+"The coupon code ""%1"" is not valid.","Afsáttar kóðinn ""%1"" er ógildur.",module,Magento_AdvancedCheckout
+"Shopping Cart Items","Vörur í körfu",module,Magento_AdvancedCheckout
+"Qty","Magn",module,Magento_AdvancedCheckout
+"Subtotal","Samtala",module,Magento_AdvancedCheckout
+"Discount","Afsláttur",module,Magento_AdvancedCheckout
+"Row Subtotal","Samtala raðar",module,Magento_AdvancedCheckout
+"Action","Aðgerð",module,Magento_AdvancedCheckout
+"No ordered items","Fjöldi vara í pöntun",module,Magento_AdvancedCheckout
+"Total %1 product(s)","Samtals %1 vörur",module,Magento_AdvancedCheckout
+"Subtotal:","Samtala:",module,Magento_AdvancedCheckout
+"Please select","Vinsamlega veljið",module,Magento_AdvancedCheckout
+"Move to Wish List","Færa á óskalista",module,Magento_AdvancedCheckout
+"No item specified.","engin vara tilgreind.",module,Magento_AdvancedCheckout
+"Are you sure you want to remove this item?","Ertu viss um að þú viljir fjarlægja þessa vöru?",module,Magento_AdvancedCheckout
+"SKU number","Vörunúmer",module,Magento_AdvancedCheckout
+"Upload File","Hlaðaupp skrá",module,Magento_AdvancedCheckout
+"Your csv file must include ""sku"" and ""qty"" columns.","CSV skráin þín þarf að innihalda ""vörunúmer"" og ""magn"" dálka.",module,Magento_AdvancedCheckout
+"Reset","Endursetja",module,Magento_AdvancedCheckout
+"SKU: ","Vörunr.: ",module,Magento_AdvancedCheckout
+"Only <span id=""%1_max_allowed"">%2</span> in stock","aðeins <span id=""%1_max_allowed"">%2</span> á lager",module,Magento_AdvancedCheckout
+"Item","Vara",module,Magento_AdvancedCheckout
+"See price before order confirmation.","Sjá verð fyrir staðfestingu pöntunar.",module,Magento_AdvancedCheckout
+"What's this?","Hvað er þetta?",module,Magento_AdvancedCheckout
+"Incl. Tax","m.VSK",module,Magento_AdvancedCheckout
+"Excl. Tax","án VSK",module,Magento_AdvancedCheckout
+"Edit item parameters","Breyta eigindum vöru",module,Magento_AdvancedCheckout
+"Edit","Breyta",module,Magento_AdvancedCheckout
+"Remove item","Fjarlægja hlut",module,Magento_AdvancedCheckout
+"Products Requiring Attention","Vörur þarfnast athygli",module,Magento_AdvancedCheckout
+"Add to Cart","Bæta í körfu",module,Magento_AdvancedCheckout
+"Sku","Vörunúmer",module,Magento_AdvancedCheckout
+"File","Skrá",module,Magento_AdvancedCheckout
+"File extensions allowed: .csv","Leyfða skráar endingar: .csv",module,Magento_AdvancedCheckout
+"Add Row","Bæta við línu",module,Magento_AdvancedCheckout
+"Remove Row","Fjarlægja línu",module,Magento_AdvancedCheckout
+"The group price couldn't be saved.","Ekki var hægt að vista hóp verð.",module,Magento_Catalog
+"The data was invalid. Verify the data and try again.","Gögnin eru ógilð. Staðfestið gögnin og reynið aftur.",module,Magento_Catalog
+"Values in the %1 attributes are invalid. Verify the values and try again.","Gildi í the %1 eigindum eru ógild. Staðfestið gildin og reynið aftur.",module,Magento_Catalog
+"We can't create the ""%1"" writeable directory.","Við getu ekki búið til ""%1"" möppu með skrifréttindum.",module,Magento_Catalog
+"The file upload failed. Try to upload again.","Upphal stárainnar tóks ekki. Reynu aftur að upphala skránni.",module,Magento_Catalog
+"The product has required options. Enter the options and try again.","Vara er með kröfu um valmöguleika. Settu inn valmöguleikanna og reyndu aftur.",module,Magento_Catalog
+"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","Hópurinn með ""%1"" ID er ekki til. Stðafestu ID og reyndu aftur.",module,Magento_Catalog
+"The attribute group can't be deleted because it contains system attributes.","Ekki hægt að eyða eiginda hóp þar sem hann inniheldur kefis eigindir.",module,Magento_Catalog
+"The collection provider isn't registered.","Uppruna staður safns er ekki skráður.",module,Magento_Catalog
+"The ""%1"" link type is unknown. Verify the type and try again.","Gerð ""%1"" hlekks er óþekkt. Staðfestu gerðina og reyndu aftur.",module,Magento_Catalog
+"The ""%1"" link type wasn't found. Verify the type and try again.","Gerð ""%1"" hlekks finnst ekki. Staðfestu gerðina og reyndu aftur.",module,Magento_Catalog
+"The linked products data is invalid. Verify the data and try again.","Tengdar vörur upplýsingar eru ógildar. staðfestu gögnin og reyndu aftur.",module,Magento_Catalog
+"The product that was requested doesn't exist. Verify the product and try again.","Varan sem leitað er að er ekki til. staðfestu vöruna og reyndu aftur.",module,Magento_Catalog
+"The Product with the ""%1"" SKU doesn't exist.","Vara með vörunúmerinu ""%1"" er ekki til.",module,Magento_Catalog
+"The ""%1"" product couldn't be removed.","Ekki er hægt að eyða vörunni ""%1"" .",module,Magento_Catalog
+"Category with ID: %s doesn't exist","Vöruflokkur með ID: %s er ekki til",module,Magento_Catalog
+"Product Name or SKU","Vörunúnwer eða nafn",module,Magento_Catalog
+"Start typing to find products","Byjaðu að sláinn til að finna vörur",module,Magento_Catalog
+"Product with ID: %s doesn't exist","Vara með  ID: %s er ekki til",module,Magento_Catalog
+"Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped","Processor %1 notae ekki WysiwygConfigDataProcessorInterface. Því verður sleppt",module,Magento_Catalog
+"An item needs to be selected. Select and try again.","Það þarf að velja hlut. Veldu og reyndu aftur.",module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG","Notið föst URL fyrir Efnis innihald í WYSIWYG",module,Magento_Catalog
+"Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Efnið er sett inn í ritilinn sem fast URL. Efnið uppfærist ekki ef grunn URL vefsins breytist.",module,Magento_Catalog
+"Default Layouts","Sjálfgefin útlit",module,Magento_Catalog
+"Default Product Layout","Sjálfgefið útlit vöru",module,Magento_Catalog
+"Default Category Layout","Sjáfgefið útlit vöruflokks",module,Magento_Catalog
+",module,Magento_Catalog
+Time in seconds between the widget updates.,module,Magento_Catalog
+<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.,module,Magento_Catalog
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.,module,Magento_Catalog
+",",module,Magento_Catalog
+Tími í sekúndum mill tækis uppfærslna.,module,Magento_Catalog
+<br/>Ef óstillt, er sjálfgildi 86400 sekúndur (24 tímar). til að uppfæra tækið strax, farið í Cache stjórnun hreinsið úr HTML Output cache.,module,Magento_Catalog
+<br/>Tækið mun ekki sýna vörur sem passa skilteindum skilyrðum fyrr en cache er endur nýjað.,module,Magento_Catalog
+",module,Magento_Catalog
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Texta ritils gerð þarf að hafa WYSIWYG virkt í Verslunum > Configuration > Content Management.",module,Magento_Catalog
+"Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Eiginda kóði ""%1"" er ógildur. Notið aðeins stafina (a-z or A-Z án séríslenskara stafa), tölur (0-9) eða undirstrik (_) í þessum reit, fyrsta tákn þarf að vera bókstafur.",module,Magento_Catalog
+"Advanced","Ítarlegt",module,Magento_Catalog
+"Edit Event","breyta atburði",module,Magento_CatalogEvent
+"Add Event","Bæta við atburði",module,Magento_CatalogEvent
+"Events","Atburðir",module,Magento_CatalogEvent
+"Add Catalog Event","Bæta við atburði vöruflokks",module,Magento_CatalogEvent
+"Save and Continue Edit","Vista og breyta áfram",module,Magento_CatalogEvent
+"Back to Category","Tilbaka í vöruflokk",module,Magento_CatalogEvent
+"Edit Catalog Event","Breyta atburði vöruflokks",module,Magento_CatalogEvent
+"Catalog Event Information","Upplýsingar atburða vöruflokka",module,Magento_CatalogEvent
+"Category","Vöruflokkur",module,Magento_CatalogEvent
+"Start Date","Byrjunar dagur",module,Magento_CatalogEvent
+"End Date","Loka dagur",module,Magento_CatalogEvent
+"Image","Mynd",module,Magento_CatalogEvent
+"Sort Order","Röðun",module,Magento_CatalogEvent
+"Upcoming","Væntanlegt",module,Magento_CatalogEvent
+"Open","Opna",module,Magento_CatalogEvent
+"Closed","Lokað",module,Magento_CatalogEvent
+"Display Countdown Ticker On","Display Countdown Ticker On",module,Magento_CatalogEvent
+"Category Page","Vöruflokka síða",module,Magento_CatalogEvent
+"Product Page","Vöru síða",module,Magento_CatalogEvent
+"Status","Staða",module,Magento_CatalogEvent
+"[GLOBAL]","[ALGILT]",module,Magento_CatalogEvent
+"[WEBSITE]","[VEFUR]",module,Magento_CatalogEvent
+"[STORE VIEW]","[SÝN VERSLUNAR]",module,Magento_CatalogEvent
+"Coming Soon","Kemur fljótlega",module,Magento_CatalogEvent
+"Sale Ends In","Lok útsölu",module,Magento_CatalogEvent
+"Catalog","Vörulisti",module,Magento_CatalogEvent
+"You deleted the event.","Þú eyddir atbutði.",module,Magento_CatalogEvent
