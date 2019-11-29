@@ -1,1 +1,1127 @@
-Mageplaza,Mageplaza
+﻿Mageplaza,Mageplaza
+"Close popup","Loka popup",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Þú hefur skoðað og brugðist við öllum kerfis skilaboðum. Endurnýjaðu síðuna til að heinsa boð um kerfis skilaboð.",module,Magento_AdminNotification
+"Manage Shopping Cart","Sjá um vörukörfu",module,Magento_AdvancedCheckout
+"Create Order","Gera pöntun",module,Magento_AdvancedCheckout
+"Back","Til baka",module,Magento_AdvancedCheckout
+"Add Products","Bæta við vörum",module,Magento_AdvancedCheckout
+"Update Items and Quantities","Uppfæra vörur og magn",module,Magento_AdvancedCheckout
+"Are you sure you want to clear your cart?","Eru viss umað þú viljir hreinsa úr körfunni?",module,Magento_AdvancedCheckout
+"Clear my shopping cart","Tæma körfu",module,Magento_AdvancedCheckout
+"Add selections to my cart","Bæta vali við körfu",module,Magento_AdvancedCheckout
+"Cancel","Hætta við",module,Magento_AdvancedCheckout
+"Shopping Cart for %1 in %2","Karfa fyrir %1 í %2",module,Magento_AdvancedCheckout
+"Select products you want to buy","Veldu vörur sem þú vilt kaupa",module,Magento_AdvancedCheckout
+"Product","Vöru",module,Magento_AdvancedCheckout
+"Price","Verð",module,Magento_AdvancedCheckout
+"Quantity","Magn",module,Magento_AdvancedCheckout
+"Products in the Comparison List (%1)","Vörur í samanburðar lista (%1)",module,Magento_AdvancedCheckout
+"Last ordered items (%1)","Vörur seldar síðast (%1)",module,Magento_AdvancedCheckout
+"Products","Vörur",module,Magento_AdvancedCheckout
+"ID","ID",module,Magento_AdvancedCheckout
+"SKU","Vörunúmer",module,Magento_AdvancedCheckout
+"Recently Compared Products (%1)","Nýlega samanbornar vörur (%1)",module,Magento_AdvancedCheckout
+"Recently Viewed Products (%1)","Nýlega skoðaðar vörur (%1)",module,Magento_AdvancedCheckout
+"Add to Shopping Cart by SKU","Bæta í körfu eftir vörunúmeri",module,Magento_AdvancedCheckout
+"Add to Shopping Cart","Setja í körfu",module,Magento_AdvancedCheckout
+"Wish List (%1)","Óskalisti (%1)",module,Magento_AdvancedCheckout
+"Apply","Virkja",module,Magento_AdvancedCheckout
+"Configure","Stilla",module,Magento_AdvancedCheckout
+"Add to Order by SKU","Bæta við pöntun eftir vörunúmeri",module,Magento_AdvancedCheckout
+"Add to Order","Bæta við pöntun",module,Magento_AdvancedCheckout
+"Add Products to Order","Bæta vörum við pöntun",module,Magento_AdvancedCheckout
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> vara(öur) þarfnast athygli.</span>",module,Magento_AdvancedCheckout
+"Remove All","Fjarlægja allt",module,Magento_AdvancedCheckout
+"Only %1%2%3 left in stock","Aðeins %1%2%3 eftir á lager",module,Magento_AdvancedCheckout
+"You can buy up to %1 of these per purchase.","Þú gertur keypt allt að %1 þessu í hvert skipti.",module,Magento_AdvancedCheckout
+"You must buy at least %1 of these per purchase.","Það þarf að kaupa minnst %1 af þessu í pöntun.",module,Magento_AdvancedCheckout
+"Specify the product's options.","Vejið valmöguleika vörunnar.",module,Magento_AdvancedCheckout
+"Alert me when this item is available.","Látið mig vita þegar varan er til.",module,Magento_AdvancedCheckout
+"We can't find this customer.","Við finnum ekki þennan viðskiptavin.",module,Magento_AdvancedCheckout
+"Shopping cart management is disabled for this customer.","Umsjón körfu er óvirk fyrir þennan viðskiptavin.",module,Magento_AdvancedCheckout
+"We can't find this store.","Við finnum ekki þessa verslun.",module,Magento_AdvancedCheckout
+"Customers","Viðskiptavinir",module,Magento_AdvancedCheckout
+"Shopping Cart","Karfa",module,Magento_AdvancedCheckout
+"Sorry, something went wrong. You can find out more in the error log.","Afsakið, seitthvað misfórst. Nánari upplýsingar í villu skrá.",module,Magento_AdvancedCheckout
+"You do not have access to this.","Þú hefur ekki aðgang að þessu.",module,Magento_AdvancedCheckout
+"Ordered item id is not received.","ID vöru í pöntun er ekki móttekið.",module,Magento_AdvancedCheckout
+"Ordered item is not loaded.","Pöntuð vara er ekki hlaðin.",module,Magento_AdvancedCheckout
+"Quote item id is not received.","Tilboð vöru id er ekki móttekið.",module,Magento_AdvancedCheckout
+"Quote item is not loaded.","Vara í tilboði er ekki hlaðin.",module,Magento_AdvancedCheckout
+"The wish list item id is not received.","Ókslalista vöru id er ekki móttekið.",module,Magento_AdvancedCheckout
+"The wish list item is not loaded.","Óskalista vara er ekki hlaðin.",module,Magento_AdvancedCheckout
+"An error has occurred. See error log for details.","Það ko upp villa. sjáið nánar í villu skrá.",module,Magento_AdvancedCheckout
+"You cannot configure a product.","Þú gertu ekki stillt vöru.",module,Magento_AdvancedCheckout
+"You removed the items.","Þú fjarlægðir vörurnar.",module,Magento_AdvancedCheckout
+"You removed the item.","Þú fjarlægðir vörurna.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","Þú bættir við %1 í körfuna þína.",module,Magento_AdvancedCheckout
+"You cannot add a product.","Þú getur ekki bætt við vöru.",module,Magento_AdvancedCheckout
+"Order by SKU","Pöntun eftir vörunúmeri",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","Vörunúmerið fannst ekki í vörulistanum.",module,Magento_AdvancedCheckout
+"Availability: Out of stock.","Availability: Uppselt.",module,Magento_AdvancedCheckout
+"We don't have as many of these as you want.","Við eigum ekki allt magnis sem þú óskar.",module,Magento_AdvancedCheckout
+"You can't add this many to your cart.","Þú gertu ekki bætt svona mörgum í körfuna.",module,Magento_AdvancedCheckout
+"You need to choose options for your item.","Þú verður að velja valkosti vörunnar.",module,Magento_AdvancedCheckout
+"We can't add the item to your cart.","Við getum ekki bætt vörunni í körfuna.",module,Magento_AdvancedCheckout
+"Please enter an actual number in the ""Qty"" field.","Vinsamlega setjið tölu í ""Magn"" reitinn.",module,Magento_AdvancedCheckout
+"This product is assigned to another website.","Þessi vara fylgir öðum vef.",module,Magento_AdvancedCheckout
+"You can add only enabled products.","Þú getur aðeins bætt við virkum vörum.",module,Magento_AdvancedCheckout
+"You cannot upload this file.","Þú getur ekki hlaðið upp þessari skrá.",module,Magento_AdvancedCheckout
+"The file is empty.","Skráin er tóm.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Þú hefur ekki sett inn vörunúmer. Vinsamlega <a href=""%1"">smelltu hér</a> til að bæta við vöru(m) eftir vörunúmeri.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU.","Þú er ekki búinn að setja inn vörunúmer.",module,Magento_AdvancedCheckout
+"We can't add a product to cart by id ""%1"".","Við getum ekki bætt við vöru eftir id ""%1"".",module,Magento_AdvancedCheckout
+"Something went wrong while reordering this product.","Eitthvað misfórs við endur pöntun á þessari vöru.",module,Magento_AdvancedCheckout
+"We can't find this wish list.","Þessi óskalisti finnst ekki.",module,Magento_AdvancedCheckout
+"You added %1 product to your shopping cart.","Þú bættir %1 vöru í körfuna þína.",module,Magento_AdvancedCheckout
+"You added %1 products to your shopping cart.","Þú bættir %1 vörum í körfuna þína.",module,Magento_AdvancedCheckout
+"%1 product requires your attention.","%1 vara þarfnast athygli þinnar.",module,Magento_AdvancedCheckout
+"%1 products require your attention.","%1 vörur þarfnast athygli þinnar.",module,Magento_AdvancedCheckout
+"Yes, for Specified Customer Groups","Já, fyrir tilgreinda viðskiptahópa",module,Magento_AdvancedCheckout
+"Yes, for Everyone","Já, fyrir alla",module,Magento_AdvancedCheckout
+"No","Nei",module,Magento_AdvancedCheckout
+"The file is corrupt.","Skráin er skemmd.",module,Magento_AdvancedCheckout
+"Please upload the file in .csv format.","Vinsamlega hladdu upp skránni í .csv formi.",module,Magento_AdvancedCheckout
+"%1 item(s) need your attention.","%1 vara(örur) þarfnast athygli þinnar.",module,Magento_AdvancedCheckout
+"Apply Coupon Code","Virkja afsláttar kóða",module,Magento_AdvancedCheckout
+"Remove Coupon Code","Fjarlægja  afsláttar kóða",module,Magento_AdvancedCheckout
+"Remove","Fjarlægja",module,Magento_AdvancedCheckout
+"The coupon code ""%1"" is not valid.","Afsáttar kóðinn ""%1"" er ógildur.",module,Magento_AdvancedCheckout
+"Shopping Cart Items","Vörur í körfu",module,Magento_AdvancedCheckout
+"Qty","Magn",module,Magento_AdvancedCheckout
+"Subtotal","Samtala",module,Magento_AdvancedCheckout
+"Discount","Afsláttur",module,Magento_AdvancedCheckout
+"Row Subtotal","Samtala raðar",module,Magento_AdvancedCheckout
+"Action","Aðgerð",module,Magento_AdvancedCheckout
+"No ordered items","Fjöldi vara í pöntun",module,Magento_AdvancedCheckout
+"Total %1 product(s)","Samtals %1 vörur",module,Magento_AdvancedCheckout
+"Subtotal:","Samtala:",module,Magento_AdvancedCheckout
+"Please select","Vinsamlega veljið",module,Magento_AdvancedCheckout
+"Move to Wish List","Færa á óskalista",module,Magento_AdvancedCheckout
+"No item specified.","engin vara tilgreind.",module,Magento_AdvancedCheckout
+"Are you sure you want to remove this item?","Ertu viss um að þú viljir fjarlægja þessa vöru?",module,Magento_AdvancedCheckout
+"SKU number","Vörunúmer",module,Magento_AdvancedCheckout
+"Upload File","Hlaðaupp skrá",module,Magento_AdvancedCheckout
+"Your csv file must include ""sku"" and ""qty"" columns.","CSV skráin þín þarf að innihalda ""vörunúmer"" og ""magn"" dálka.",module,Magento_AdvancedCheckout
+"Reset","Endursetja",module,Magento_AdvancedCheckout
+"SKU: ","Vörunr.: ",module,Magento_AdvancedCheckout
+"Only <span id=""%1_max_allowed"">%2</span> in stock","aðeins <span id=""%1_max_allowed"">%2</span> á lager",module,Magento_AdvancedCheckout
+"Item","Vara",module,Magento_AdvancedCheckout
+"See price before order confirmation.","Sjá verð fyrir staðfestingu pöntunar.",module,Magento_AdvancedCheckout
+"What's this?","Hvað er þetta?",module,Magento_AdvancedCheckout
+"Incl. Tax","m.VSK",module,Magento_AdvancedCheckout
+"Excl. Tax","án VSK",module,Magento_AdvancedCheckout
+"Edit item parameters","Breyta eigindum vöru",module,Magento_AdvancedCheckout
+"Edit","Breyta",module,Magento_AdvancedCheckout
+"Remove item","Fjarlægja hlut",module,Magento_AdvancedCheckout
+"Products Requiring Attention","Vörur þarfnast athygli",module,Magento_AdvancedCheckout
+"Add to Cart","Bæta í körfu",module,Magento_AdvancedCheckout
+"Sku","Vörunúmer",module,Magento_AdvancedCheckout
+"File","Skrá",module,Magento_AdvancedCheckout
+"File extensions allowed: .csv","Leyfða skráar endingar: .csv",module,Magento_AdvancedCheckout
+"Add Row","Bæta við línu",module,Magento_AdvancedCheckout
+"Remove Row","Fjarlægja línu",module,Magento_AdvancedCheckout
+"The group price couldn't be saved.","Ekki var hægt að vista hóp verð.",module,Magento_Catalog
+"The data was invalid. Verify the data and try again.","Gögnin eru ógilð. Staðfestið gögnin og reynið aftur.",module,Magento_Catalog
+"Values in the %1 attributes are invalid. Verify the values and try again.","Gildi í the %1 eigindum eru ógild. Staðfestið gildin og reynið aftur.",module,Magento_Catalog
+"We can't create the ""%1"" writeable directory.","Við getu ekki búið til ""%1"" möppu með skrifréttindum.",module,Magento_Catalog
+"The file upload failed. Try to upload again.","Upphal stárainnar tóks ekki. Reynu aftur að upphala skránni.",module,Magento_Catalog
+"The product has required options. Enter the options and try again.","Vara er með kröfu um valmöguleika. Settu inn valmöguleikanna og reyndu aftur.",module,Magento_Catalog
+"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","Hópurinn með ""%1"" ID er ekki til. Stðafestu ID og reyndu aftur.",module,Magento_Catalog
+"The attribute group can't be deleted because it contains system attributes.","Ekki hægt að eyða eiginda hóp þar sem hann inniheldur kefis eigindir.",module,Magento_Catalog
+"The collection provider isn't registered.","Uppruna staður safns er ekki skráður.",module,Magento_Catalog
+"The ""%1"" link type is unknown. Verify the type and try again.","Gerð ""%1"" hlekks er óþekkt. Staðfestu gerðina og reyndu aftur.",module,Magento_Catalog
+"The ""%1"" link type wasn't found. Verify the type and try again.","Gerð ""%1"" hlekks finnst ekki. Staðfestu gerðina og reyndu aftur.",module,Magento_Catalog
+"The linked products data is invalid. Verify the data and try again.","Tengdar vörur upplýsingar eru ógildar. staðfestu gögnin og reyndu aftur.",module,Magento_Catalog
+"The product that was requested doesn't exist. Verify the product and try again.","Varan sem leitað er að er ekki til. staðfestu vöruna og reyndu aftur.",module,Magento_Catalog
+"The Product with the ""%1"" SKU doesn't exist.","Vara með vörunúmerinu ""%1"" er ekki til.",module,Magento_Catalog
+"The ""%1"" product couldn't be removed.","Ekki er hægt að eyða vörunni ""%1"" .",module,Magento_Catalog
+"Category with ID: %s doesn't exist","Vöruflokkur með ID: %s er ekki til",module,Magento_Catalog
+"Product Name or SKU","Vörunúnwer eða nafn",module,Magento_Catalog
+"Start typing to find products","Byjaðu að sláinn til að finna vörur",module,Magento_Catalog
+"Product with ID: %s doesn't exist","Vara með  ID: %s er ekki til",module,Magento_Catalog
+"Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped","Processor %1 notar ekki WysiwygConfigDataProcessorInterface. Því verður sleppt",module,Magento_Catalog
+"An item needs to be selected. Select and try again.","Það þarf að velja hlut. Veldu og reyndu aftur.",module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG","Notið föst URL fyrir Efnis innihald í WYSIWYG",module,Magento_Catalog
+"Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Efnið er sett inn í ritilinn sem fast URL. Efnið uppfærist ekki ef grunn URL vefsins breytist.",module,Magento_Catalog
+"Default Layouts","Sjálfgefin útlit",module,Magento_Catalog
+"Default Product Layout","Sjálfgefið útlit vöru",module,Magento_Catalog
+"Default Category Layout","Sjáfgefið útlit vöruflokks",module,Magento_Catalog
+",module,Magento_Catalog
+Time in seconds between the widget updates.,module,Magento_Catalog
+<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.,module,Magento_Catalog
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.,module,Magento_Catalog
+",",module,Magento_Catalog
+Tími í sekúndum mill tækis uppfærslna.,module,Magento_Catalog
+<br/>Ef óstillt, er sjálfgildi 86400 sekúndur (24 tímar). til að uppfæra tækið strax, farið í Cache stjórnun hreinsið úr HTML Output cache.,module,Magento_Catalog
+<br/>Tækið mun ekki sýna vörur sem passa skilteindum skilyrðum fyrr en cache er endur nýjað.,module,Magento_Catalog
+",module,Magento_Catalog
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Texta ritils gerð þarf að hafa WYSIWYG virkt í Verslunum > Configuration > Content Management.",module,Magento_Catalog
+"Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Eiginda kóði ""%1"" er ógildur. Notið aðeins stafina (a-z or A-Z án séríslenskara stafa), tölur (0-9) eða undirstrik (_) í þessum reit, fyrsta tákn þarf að vera bókstafur.",module,Magento_Catalog
+"Advanced","Ítarlegt",module,Magento_Catalog
+"Edit Event","Breyta atburði",module,Magento_CatalogEvent
+"Add Event","Bæta við atburði",module,Magento_CatalogEvent
+"Events","Atburðir",module,Magento_CatalogEvent
+"Add Catalog Event","Bæta við atburði vöruflokks",module,Magento_CatalogEvent
+"Save and Continue Edit","Vista og breyta áfram",module,Magento_CatalogEvent
+"Back to Category","Tilbaka í vöruflokk",module,Magento_CatalogEvent
+"Edit Catalog Event","Breyta atburði vöruflokks",module,Magento_CatalogEvent
+"Catalog Event Information","Upplýsingar atburða vöruflokka",module,Magento_CatalogEvent
+"Category","Vöruflokkur",module,Magento_CatalogEvent
+"Start Date","Byrjunar dagur",module,Magento_CatalogEvent
+"End Date","Loka dagur",module,Magento_CatalogEvent
+"Image","Mynd",module,Magento_CatalogEvent
+"Sort Order","Röðun",module,Magento_CatalogEvent
+"Upcoming","Væntanlegt",module,Magento_CatalogEvent
+"Open","Opna",module,Magento_CatalogEvent
+"Closed","Lokað",module,Magento_CatalogEvent
+"Display Countdown Ticker On","Display Countdown Ticker On",module,Magento_CatalogEvent
+"Category Page","Vöruflokka síða",module,Magento_CatalogEvent
+"Product Page","Vöru síða",module,Magento_CatalogEvent
+"Status","Staða",module,Magento_CatalogEvent
+"[GLOBAL]","[ALGILT]",module,Magento_CatalogEvent
+"[WEBSITE]","[VEFUR]",module,Magento_CatalogEvent
+"[STORE VIEW]","[SÝN VERSLUNAR]",module,Magento_CatalogEvent
+"Coming Soon","Kemur fljótlega",module,Magento_CatalogEvent
+"Sale Ends In","Lok útsölu",module,Magento_CatalogEvent
+"Catalog","Vörulisti",module,Magento_CatalogEvent
+"You deleted the event.","Þú eyddir atbutði.",module,Magento_CatalogEvent
+"Manage Shopping Cart","Sjá um vörukörfu",module,Magento_AdvancedCheckout
+"Create Order","Gera pöntun",module,Magento_AdvancedCheckout
+"Back","Til baka",module,Magento_AdvancedCheckout
+"Add Products","Bæta við vörum",module,Magento_AdvancedCheckout
+"Update Items and Quantities","Uppfæra vörur og magn",module,Magento_AdvancedCheckout
+"Are you sure you want to clear your cart?","Eru viss umað þú viljir hreinsa úr körfunni?",module,Magento_AdvancedCheckout
+"Clear my shopping cart","Tæma körfu",module,Magento_AdvancedCheckout
+"Add selections to my cart","Bæta vali við körfu",module,Magento_AdvancedCheckout
+"Cancel","Hætta við",module,Magento_AdvancedCheckout
+"Shopping Cart for %1 in %2","Karfa fyrir %1 í %2",module,Magento_AdvancedCheckout
+"Select products you want to buy","Veldu vörur sem þú vilt kaupa",module,Magento_AdvancedCheckout
+"Product","Vöru",module,Magento_AdvancedCheckout
+"Price","Verð",module,Magento_AdvancedCheckout
+"Quantity","Magn",module,Magento_AdvancedCheckout
+"Products in the Comparison List (%1)","Vörur í samanburðar lista (%1)",module,Magento_AdvancedCheckout
+"Last ordered items (%1)","Vörur seldar síðast (%1)",module,Magento_AdvancedCheckout
+"Products","Vörur",module,Magento_AdvancedCheckout
+"ID","ID",module,Magento_AdvancedCheckout
+"SKU","Vörunúmer",module,Magento_AdvancedCheckout
+"Recently Compared Products (%1)","Nýlega samanbornar vörur (%1)",module,Magento_AdvancedCheckout
+"Recently Viewed Products (%1)","Nýlega skoðaðar vörur (%1)",module,Magento_AdvancedCheckout
+"Add to Shopping Cart by SKU","Bæta í körfu eftir vörunúmeri",module,Magento_AdvancedCheckout
+"Add to Shopping Cart","Setja í körfu",module,Magento_AdvancedCheckout
+"Wish List (%1)","Óskalisti (%1)",module,Magento_AdvancedCheckout
+"Apply","Virkja",module,Magento_AdvancedCheckout
+"Configure","Stilla",module,Magento_AdvancedCheckout
+"Add to Order by SKU","Bæta við pöntun eftir vörunúmeri",module,Magento_AdvancedCheckout
+"Add to Order","Bæta við pöntun",module,Magento_AdvancedCheckout
+"Add Products to Order","Bæta vörum við pöntun",module,Magento_AdvancedCheckout
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> vara(öur) þarfnast athygli.</span>",module,Magento_AdvancedCheckout
+"Remove All","Fjarlægja allt",module,Magento_AdvancedCheckout
+"Only %1%2%3 left in stock","Aðeins %1%2%3 eftir á lager",module,Magento_AdvancedCheckout
+"You can buy up to %1 of these per purchase.","Þú gertur keypt allt að %1 af þessu í hvert skipti.",module,Magento_AdvancedCheckout
+"You must buy at least %1 of these per purchase.","Það þarf að kaupa minnst %1 af þessu í pöntun.",module,Magento_AdvancedCheckout
+"Specify the product's options.","Veljið valmöguleika vörunnar.",module,Magento_AdvancedCheckout
+"Alert me when this item is available.","Látið mig vita þegar varan er til.",module,Magento_AdvancedCheckout
+"We can't find this customer.","Við finnum ekki þennan viðskiptavin.",module,Magento_AdvancedCheckout
+"Shopping cart management is disabled for this customer.","Umsjón körfu er óvirk fyrir þennan viðskiptavin.",module,Magento_AdvancedCheckout
+"We can't find this store.","Við finnum ekki þessa verslun.",module,Magento_AdvancedCheckout
+"Customers","Viðskiptavinir",module,Magento_AdvancedCheckout
+"Shopping Cart","Karfa",module,Magento_AdvancedCheckout
+"Sorry, something went wrong. You can find out more in the error log.","Afsakið, seitthvað misfórst. Nánari upplýsingar í villu skrá.",module,Magento_AdvancedCheckout
+"You do not have access to this.","Þú hefur ekki aðgang að þessu.",module,Magento_AdvancedCheckout
+"Ordered item id is not received.","ID vöru í pöntun er ekki móttekið.",module,Magento_AdvancedCheckout
+"Ordered item is not loaded.","Pöntuð vara er ekki hlaðin.",module,Magento_AdvancedCheckout
+"Quote item id is not received.","Tilboð vöru id er ekki móttekið.",module,Magento_AdvancedCheckout
+"Quote item is not loaded.","Vara í tilboði er ekki hlaðin.",module,Magento_AdvancedCheckout
+"The wish list item id is not received.","Ókslalista vöru id er ekki móttekið.",module,Magento_AdvancedCheckout
+"The wish list item is not loaded.","Óskalista vara er ekki hlaðin.",module,Magento_AdvancedCheckout
+"An error has occurred. See error log for details.","Það ko upp villa. sjáið nánar í villu skrá.",module,Magento_AdvancedCheckout
+"You cannot configure a product.","Þú gertu ekki stillt vöru.",module,Magento_AdvancedCheckout
+"You removed the items.","Þú fjarlægðir vörurnar.",module,Magento_AdvancedCheckout
+"You removed the item.","Þú fjarlægðir vörurna.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","Þú bættir við %1 í körfuna þína.",module,Magento_AdvancedCheckout
+"You cannot add a product.","Þú getur ekki bætt við vöru.",module,Magento_AdvancedCheckout
+"Order by SKU","Pöntun eftir vörunúmeri",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","Vörunúmerið fannst ekki í vörulistanum.",module,Magento_AdvancedCheckout
+"Availability: Out of stock.","Availability: Uppselt.",module,Magento_AdvancedCheckout
+"We don't have as many of these as you want.","Við eigum ekki allt magnis sem þú óskar.",module,Magento_AdvancedCheckout
+"You can't add this many to your cart.","Þú gertu ekki bætt svona mörgum í körfuna.",module,Magento_AdvancedCheckout
+"You need to choose options for your item.","Þú verður að velja valkosti vörunnar.",module,Magento_AdvancedCheckout
+"We can't add the item to your cart.","Við getum ekki bætt vörunni í körfuna.",module,Magento_AdvancedCheckout
+"Please enter an actual number in the ""Qty"" field.","Vinsamlega setjið tölu í ""Magn"" reitinn.",module,Magento_AdvancedCheckout
+"This product is assigned to another website.","Þessi vara fylgir öðum vef.",module,Magento_AdvancedCheckout
+"You can add only enabled products.","Þú getur aðeins bætt við virkum vörum.",module,Magento_AdvancedCheckout
+"You cannot upload this file.","Þú getur ekki hlaðið upp þessari skrá.",module,Magento_AdvancedCheckout
+"The file is empty.","Skráin er tóm.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Þú hefur ekki sett inn vörunúmer. Vinsamlega <a href=""%1"">smelltu hér</a> til að bæta við vöru(m) eftir vörunúmeri.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU.","Þú er ekki búinn að setja inn vörunúmer.",module,Magento_AdvancedCheckout
+"We can't add a product to cart by id ""%1"".","Við getum ekki bætt við vöru eftir id ""%1"".",module,Magento_AdvancedCheckout
+"Something went wrong while reordering this product.","Eitthvað misfórs við endur pöntun á þessari vöru.",module,Magento_AdvancedCheckout
+"We can't find this wish list.","Þessi óskalisti finnst ekki.",module,Magento_AdvancedCheckout
+"You added %1 product to your shopping cart.","Þú bættir %1 vöru í körfuna þína.",module,Magento_AdvancedCheckout
+"You added %1 products to your shopping cart.","Þú bættir %1 vörum í körfuna þína.",module,Magento_AdvancedCheckout
+"%1 product requires your attention.","%1 vara þarfnast athygli þinnar.",module,Magento_AdvancedCheckout
+"%1 products require your attention.","%1 vörur þarfnast athygli þinnar.",module,Magento_AdvancedCheckout
+"Yes, for Specified Customer Groups","Já, fyrir tilgreinda viðskiptahópa",module,Magento_AdvancedCheckout
+"Yes, for Everyone","Já, fyrir alla",module,Magento_AdvancedCheckout
+"No","Nei",module,Magento_AdvancedCheckout
+"The file is corrupt.","Skráin er skemmd.",module,Magento_AdvancedCheckout
+"Please upload the file in .csv format.","Vinsamlega hladdu upp skránni í .csv formi.",module,Magento_AdvancedCheckout
+"%1 item(s) need your attention.","%1 vara(örur) þarfnast athygli þinnar.",module,Magento_AdvancedCheckout
+"Apply Coupon Code","Virkja afsláttar kóða",module,Magento_AdvancedCheckout
+"Remove Coupon Code","Fjarlægja  afsláttar kóða",module,Magento_AdvancedCheckout
+"Remove","Fjarlægja",module,Magento_AdvancedCheckout
+"The coupon code ""%1"" is not valid.","Afsáttar kóðinn ""%1"" er ógildur.",module,Magento_AdvancedCheckout
+"Shopping Cart Items","Vörur í körfu",module,Magento_AdvancedCheckout
+"Qty","Magn",module,Magento_AdvancedCheckout
+"Subtotal","Samtala",module,Magento_AdvancedCheckout
+"Discount","Afsláttur",module,Magento_AdvancedCheckout
+"Row Subtotal","Samtala raðar",module,Magento_AdvancedCheckout
+"Action","Aðgerð",module,Magento_AdvancedCheckout
+"No ordered items","Fjöldi vara í pöntun",module,Magento_AdvancedCheckout
+"Total %1 product(s)","Samtals %1 vörur",module,Magento_AdvancedCheckout
+"Subtotal:","Samtala:",module,Magento_AdvancedCheckout
+"Please select","Vinsamlega veljið",module,Magento_AdvancedCheckout
+"Move to Wish List","Færa á óskalista",module,Magento_AdvancedCheckout
+"No item specified.","engin vara tilgreind.",module,Magento_AdvancedCheckout
+"Are you sure you want to remove this item?","Ertu viss um að þú viljir fjarlægja þessa vöru?",module,Magento_AdvancedCheckout
+"SKU number","Vörunúmer",module,Magento_AdvancedCheckout
+"Upload File","Hlaðaupp skrá",module,Magento_AdvancedCheckout
+"Your csv file must include ""sku"" and ""qty"" columns.","CSV skráin þín þarf að innihalda ""vörunúmer"" og ""magn"" dálka.",module,Magento_AdvancedCheckout
+"Reset","Endursetja",module,Magento_AdvancedCheckout
+"SKU: ","Vörunr.: ",module,Magento_AdvancedCheckout
+"Only <span id=""%1_max_allowed"">%2</span> in stock","aðeins <span id=""%1_max_allowed"">%2</span> á lager",module,Magento_AdvancedCheckout
+"Item","Vara",module,Magento_AdvancedCheckout
+"See price before order confirmation.","Sjá verð fyrir staðfestingu pöntunar.",module,Magento_AdvancedCheckout
+"What's this?","Hvað er þetta?",module,Magento_AdvancedCheckout
+"Incl. Tax","m.VSK",module,Magento_AdvancedCheckout
+"Excl. Tax","án VSK",module,Magento_AdvancedCheckout
+"Edit item parameters","Breyta eigindum vöru",module,Magento_AdvancedCheckout
+"Edit","Breyta",module,Magento_AdvancedCheckout
+"Remove item","Fjarlægja hlut",module,Magento_AdvancedCheckout
+"Products Requiring Attention","Vörur þarfnast athygli",module,Magento_AdvancedCheckout
+"Add to Cart","Bæta í körfu",module,Magento_AdvancedCheckout
+"Sku","Vörunúmer",module,Magento_AdvancedCheckout
+"File","Skrá",module,Magento_AdvancedCheckout
+"File extensions allowed: .csv","Leyfða skráar endingar: .csv",module,Magento_AdvancedCheckout
+"Add Row","Bæta við línu",module,Magento_AdvancedCheckout
+"Remove Row","Fjarlægja línu",module,Magento_AdvancedCheckout
+"Add Products By SKU","Add Products By SKU",module,Magento_AdvancedCheckout
+"Shopping Cart Management","Shopping Cart Management",module,Magento_AdvancedCheckout
+"View Shopping Cart","Sýna körfu",module,Magento_AdvancedCheckout
+"View and modify Shopping Cart","Skoða og breyta körfu",module,Magento_AdvancedCheckout
+"Order by SKU Settings","Stilla pöntun eftir vörunúmeri ",module,Magento_AdvancedCheckout
+"Enable Order by SKU on My Account in Storefront","Virkja panta eftir vörunúmeri á Mínum aðgang",module,Magento_AdvancedCheckout
+"Customer Groups","Viðskiptahópar",module,Magento_AdvancedCheckout
+"Apply Coupon","Nota afsláttarmiða",module,Magento_AdvancedCheckout
+"Order by SKU Description","Lýsing pöntunar eftir vörunúmeri",module,Magento_AdvancedCheckout
+"Display a Link to Loading a Spreadsheet","Sýna hlekk á að lesainn töflu skjal",module,Magento_AdvancedCheckout
+"Defines whether a link to My Account &gt; Order by SKU page will be displayed on the widget","Skilgreinir hvort hlekkur á Minn aðgagnur &gt; Panta erftir vörunúmeri verði birtir í tólinu",module,Magento_AdvancedCheckout
+"Link Text","Texti hlekks",module,Magento_AdvancedCheckout
+"The text of the link to the My Account &gt; Order by SKU page","Texti hlekkur á Minn aðgagnur &gt; Panta erftir vörunúmeri síðu",module,Magento_AdvancedCheckout
+"Load a list of SKUs","Sækja lista vörunúmera",module,Magento_AdvancedCheckout
+"Order by SKU Template","sniðmát fyrir pöntun eftir vörunúmeri",module,Magento_AdvancedCheckout
+"SKU not found in catalog.","Vörunúmer fannst ekki í vörulista",module,Magento_AdvancedCheckout
+"This file needs to be in .csv format.","Þessi skrá þarf að vera í .csv formi.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Þessi viðskiptamaður fannst ekki. Staðfestu viskiptamanninn og reyndu aftur.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Þessi verslun fannst ekki. Staðfestið verslunina og reyndu aftur.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Það kom villa. Sjáið nánar í villuskrá.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Aðeins er hægt að klára pöntun í virkri verslun. Staðfestið verslun og reyndu aftur.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","Pöntunin þarf að vera opin. Opnaðu pöntunina og reyndu aftur.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","Það þarf að móttaka sölutilboðs ID . Settu ID og reyndu aftur.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","Sölutilboðið þarf að vera opið. Opnaðu sölutilboðið og reyndu aftur.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","Óskalistann vantar vöru ID . Settu ID og reyndu aftur.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","Það þarf að opna óslalistann. Opnaðu listann og reyndu aftur.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","Skráin er skemmt og er ónothæf.",module,Magento_AdvancedCheckout
+"Please correct the data sent.","Vinsamlegast leiðréttið gögnin eru send inn.",module,Magento_AdvancedPricingImportExport
+"Entity type model '%1' is not found","Entity type model '%1' finnst ekki",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model þarf að vera instance af \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","Það eru engar vörugerðir til útflutnings",module,Magento_AdvancedPricingImportExport
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 class notar ekki \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
+"Sales Rule","Söluregla",module,Magento_AdvancedSalesRule
+"Index sales rule","Index sölu reglu",module,Magento_AdvancedSalesRule
+"Related Search Terms","Skyldar leitir",module,Magento_AdvancedSearch
+"Add New Search Term","Bæta við nýrri leit",module,Magento_AdvancedSearch
+"button_label","button_label",module,Magento_AdvancedSearch
+"Missing search engine parameter.","Vantar leitarvélar parameter.",module,Magento_AdvancedSearch
+"Successful! Test again?","tókst! Prófa aftur?",module,Magento_AdvancedSearch
+"Connection failed! Test again?","Tenging slitnaði! Prófa aftur?",module,Magento_AdvancedSearch
+"Enable Search Recommendations","Virkja letar ráðgjöf",module,Magento_AdvancedSearch
+"When you enable this option your site may slow down.","Þegar þú virkjar þennann möguleika getur það hægt á vef verslunnini.",module,Magento_AdvancedSearch
+"Search Recommendations Count","Fjlri leitar ráða",module,Magento_AdvancedSearch
+"Show Results Count for Each Recommendation","Sýna niðurstöðufjölda hvers ráðs",module,Magento_AdvancedSearch
+"Enable Search Suggestions","Virkja leitar tillögur",module,Magento_AdvancedSearch
+"Search Suggestions Count","Fjöldi letar tilllagna",module,Magento_AdvancedSearch
+"Show Results Count for Each Suggestion","Sýna niðurstöðu fjölda fyrir hverja tillögu",module,Magento_AdvancedSearch
+"Related search terms","Skyld leitunarorð",module,Magento_AdvancedSearch
+"Did you mean","Meintirðu",module,Magento_AdvancedSearch
+"ID","ID",module,Magento_AdvancedSearch
+"Search Query","Leitar fyrirspurn",module,Magento_AdvancedSearch
+"Store","Verslun",module,Magento_AdvancedSearch
+"Results","Niðurstöður",module,Magento_AdvancedSearch
+"Uses","Notendur",module,Magento_AdvancedSearch
+"Redirect URL","Framsent URL",module,Magento_AdvancedSearch
+"Suggested Term","Leitar tillaga",module,Magento_AdvancedSearch
+"Yes","Já",module,Magento_AdvancedSearch
+"No","Nei",module,Magento_AdvancedSearch
+"Action","Aðgerð",module,Magento_AdvancedSearch
+"Edit","Breyta",module,Magento_AdvancedSearch
+"Synonym","Samheiti",module,Magento_AdvancedSearch
+"Close","Loka",module,Magento_B2b
+"options","val",module,Magento_B2b
+"Select all","Velja allt",module,Magento_B2b
+"Deselect all","Afvelja allt",module,Magento_B2b
+"Cancel","Hætta við",module,Magento_B2b
+"Done","Búið",module,Magento_B2b
+"Please Select","Vinsamlega veljið",module,Magento_B2b
+"%s of %s selected","%s af %s völdu",module,Magento_B2b
+"B2B Features","B2B Eiginleikar",module,Magento_B2b
+"Manually","Handvirkt",module,Magento_CheckoutAgreements
+"Please agree to all the terms and conditions before placing the order.","Vinsamlega saþykkið alla viðskipta skilmála áður en pönurnin er gerð.",module,Magento_CheckoutAgreements
+"Unable to save checkout agreement %1","Get ekki vistað viðskiptaskilmála uppgjörs %1",module,Magento_CheckoutAgreements
+"Unable to remove checkout agreement %1","Get ekki fjarlægt viðskiptaskilmála uppgjörs %1",module,Magento_CheckoutAgreements
+"Checkout agreement with specified ID ""%1"" not found.","Uppgörs skilmáli með ID ""%1"" finnst ekki.",module,Magento_CheckoutAgreements
+"Close","Loka",module,Magento_CheckoutAgreements
+"Terms & Conditions","Skilyrði og skilmálar",module,Magento_CheckoutAgreements
+"Enable Terms and Conditions","Virkja skylyrði og skilmála",module,Magento_CheckoutAgreements
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Pöntunin var ekki gerð. Samþykkið skilmálana fyrst, og reyndu aftur að setja inn pöntunina.",module,Magento_CheckoutAgreements
+"The ""%1"" checkout agreement couldn't be saved.","Viðskipta skilmálinn ""%1"" vistaðist ekki.",module,Magento_CheckoutAgreements
+"The ""%1"" checkout agreement couldn't be removed.","Ekki tókst að fjarlægja viðskipta skilmálann ""%1"" .",module,Magento_CheckoutAgreements
+"Page not found.","Síðan finnst ekki.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Takk fyrir að ahafa samband við okkur gegnun athugasemdir og spurningar. Við munum svara fljótlega.",module,Magento_Contact
+"An error occurred while processing your form. Please try again later.","Það var villa í vinnslu formsins. Prófaðu aftur síðar.",module,Magento_Contact
+"Name is missing","Nafn vantar",module,Magento_Contact
+"Comment is missing","Comment vantar",module,Magento_Contact
+"Invalid email address","Ógilt netfang",module,Magento_Contact
+"* Required Fields","* Skilyrtir reitir",module,Magento_Contact
+"Write Us","Skrifaðu okkur",module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","Settu inn skilaboð og við höfum samband mjög fljótlega.",module,Magento_Contact
+"Name","Nafn",module,Magento_Contact
+"Email","Netfang",module,Magento_Contact
+"Phone Number","Símanúmer",module,Magento_Contact
+"What’s on your mind?","Um hvað ertu að hugsa?",module,Magento_Contact
+"Submit","Setja inn",module,Magento_Contact
+"Contact Form","Tengiiliðs form",module,Magento_Contact
+"Phone","Sími",module,Magento_Contact
+"Message","Skilaboð",module,Magento_Contact
+"Contacts Section","Tengiliða hluti",module,Magento_Contact
+"Contacts","Tengiliðir",module,Magento_Contact
+"Contact Us","Hafa samband",module,Magento_Contact
+"Enable Contact Us","Virkja hafa samband",module,Magento_Contact
+"Email Options","Netfangs valkostir",module,Magento_Contact
+"Send Emails To","Senda tölvupóst til",module,Magento_Contact
+"Email Sender","Sendandi tölvupósts",module,Magento_Contact
+"Email Template","Tölvupóst snið",module,Magento_Contact
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Tölvupóst snið valið eftir útliti vefs fer til baka ef ""Default"" Möguleikinn er valinn.",module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.","Við getum ekki unnið úr beiðninni núna. Því miður vitum við ekki meira.",module,Magento_Contact
+"Name: %name","Nafn: %name",module,Magento_Contact
+"Email: %email","Netfang: %email",module,Magento_Contact
+"Phone Number: %telephone","Síma númer: %telephone",module,Magento_Contact
+"Comment: %comment","Athugasemd: %comment",module,Magento_Contact
+"Enter the Name and try again.","Settu inn nafnið og reyndu aftur.",module,Magento_Contact
+"Enter the comment and try again.","Settu inn athugasemd og reyndu aftur.",module,Magento_Contact
+"The email address is invalid. Verify the email address and try again.","Netfangið er ógilt. Staðfestu netfangið og reyndu aftur.",module,Magento_Contact
+"Sign Out","Útskráning",module,Magento_Customer
+"Sign In","Sign In",module,Magento_Customer
+"You are subscribed to our newsletter.","You are subscribed to our newsletter.",module,Magento_Customer
+"You aren't subscribed to our newsletter.","You aren't subscribed to our newsletter.",module,Magento_Customer
+"You have not set a default shipping address.","You have not set a default shipping address.",module,Magento_Customer
+"You have not set a default billing address.","You have not set a default billing address.",module,Magento_Customer
+"Address Book","Address Book",module,Magento_Customer
+"Edit Address","Edit Address",module,Magento_Customer
+"Add New Address","Add New Address",module,Magento_Customer
+"region","region",module,Magento_Customer
+"Create Order","Create Order",module,Magento_Customer
+"Save Customer","Save Customer",module,Magento_Customer
+"Delete Customer","Delete Customer",module,Magento_Customer
+"Reset Password","Reset Password",module,Magento_Customer
+"Are you sure you want to revoke the customer's tokens?","Are you sure you want to revoke the customer's tokens?",module,Magento_Customer
+"Force Sign-In","Force Sign-In",module,Magento_Customer
+"New Customer","New Customer",module,Magento_Customer
+"Save and Continue Edit","Save and Continue Edit",module,Magento_Customer
+"Back","Back",module,Magento_Customer
+"Please select","Please select",module,Magento_Customer
+"Reset","Reset",module,Magento_Customer
+"ID","ID",module,Magento_Customer
+"Product","Product",module,Magento_Customer
+"SKU","SKU",module,Magento_Customer
+"Quantity","Quantity",module,Magento_Customer
+"Price","Price",module,Magento_Customer
+"Total","Total",module,Magento_Customer
+"Action","Action",module,Magento_Customer
+"Configure","Configure",module,Magento_Customer
+"Delete","Delete",module,Magento_Customer
+"Shopping Cart from %1","Shopping Cart from %1",module,Magento_Customer
+"Newsletter","Newsletter",module,Magento_Customer
+"Newsletter Information","Newsletter Information",module,Magento_Customer
+"Subscribed to Newsletter","Subscribed to Newsletter",module,Magento_Customer
+"Last Date Subscribed","Last Date Subscribed",module,Magento_Customer
+"Last Date Unsubscribed","Last Date Unsubscribed",module,Magento_Customer
+"No Newsletter Found","No Newsletter Found",module,Magento_Customer
+"Start date","Start date",module,Magento_Customer
+"End Date","End Date",module,Magento_Customer
+"Receive Date","Receive Date",module,Magento_Customer
+"Subject","Subject",module,Magento_Customer
+"Status","Status",module,Magento_Customer
+"Sent","Sent",module,Magento_Customer
+"Cancel","Hætta við",module,Magento_Customer
+"Not Sent","Not Sent",module,Magento_Customer
+"Sending","Sending",module,Magento_Customer
+"Paused","Paused",module,Magento_Customer
+"View","View",module,Magento_Customer
+"Unknown","Unknown",module,Magento_Customer
+"Order","Order",module,Magento_Customer
+"Purchased","Purchased",module,Magento_Customer
+"Bill-to Name","Bill-to Name",module,Magento_Customer
+"Ship-to Name","Ship-to Name",module,Magento_Customer
+"Order Total","Order Total",module,Magento_Customer
+"Purchase Point","Purchase Point",module,Magento_Customer
+"Customer View","Customer View",module,Magento_Customer
+"There are no items in customer's shopping cart.","There are no items in customer's shopping cart.",module,Magento_Customer
+"Qty","Qty",module,Magento_Customer
+"Confirmed","Confirmed",module,Magento_Customer
+"Confirmation Required","Confirmation Required",module,Magento_Customer
+"Confirmation Not Required","Confirmation Not Required",module,Magento_Customer
+"Indeterminate","Indeterminate",module,Magento_Customer
+"The customer does not have default billing address.","The customer does not have default billing address.",module,Magento_Customer
+"Offline","Offline",module,Magento_Customer
+"Online","Online",module,Magento_Customer
+"Never","Never",module,Magento_Customer
+"Unlocked","Unlocked",module,Magento_Customer
+"Locked","Locked",module,Magento_Customer
+"Deleted Stores","Deleted Stores",module,Magento_Customer
+"Add Locale","Add Locale",module,Magento_Customer
+"Add Date","Add Date",module,Magento_Customer
+"Days in Wish List","Days in Wish List",module,Magento_Customer
+"Unlock","Unlock",module,Magento_Customer
+"No","No",module,Magento_Customer
+"Yes","Yes",module,Magento_Customer
+"Delete File","Delete File",module,Magento_Customer
+"Download","Download",module,Magento_Customer
+"Delete Image","Delete Image",module,Magento_Customer
+"View Full Size","View Full Size",module,Magento_Customer
+"All countries","All countries",module,Magento_Customer
+"Customer Groups","Customer Groups",module,Magento_Customer
+"Add New Customer Group","Add New Customer Group",module,Magento_Customer
+"Save Customer Group","Save Customer Group",module,Magento_Customer
+"Delete Customer Group","Delete Customer Group",module,Magento_Customer
+"New Customer Group","New Customer Group",module,Magento_Customer
+"Edit Customer Group ""%1""","Edit Customer Group ""%1""",module,Magento_Customer
+"Group Information","Group Information",module,Magento_Customer
+"Group Name","Group Name",module,Magento_Customer
+"Maximum length must be less then %1 characters.","Maximum length must be less then %1 characters.",module,Magento_Customer
+"Tax Class","Tax Class",module,Magento_Customer
+"The customer is now assigned to Customer Group %s.","The customer is now assigned to Customer Group %s.",module,Magento_Customer
+"Would you like to change the Customer Group for this order?","Would you like to change the Customer Group for this order?",module,Magento_Customer
+"The VAT ID is valid.","The VAT ID is valid.",module,Magento_Customer
+"The VAT ID entered (%s) is not a valid VAT ID.","The VAT ID entered (%s) is not a valid VAT ID.",module,Magento_Customer
+"The VAT ID is valid. The current Customer Group will be used.","The VAT ID is valid. The current Customer Group will be used.",module,Magento_Customer
+"The VAT ID is valid but no Customer Group is assigned for it.","The VAT ID is valid but no Customer Group is assigned for it.",module,Magento_Customer
+"Based on the VAT ID, the customer belongs to the Customer Group %s.","Based on the VAT ID, the customer belongs to the Customer Group %s.",module,Magento_Customer
+"Something went wrong while validating the VAT ID.","Something went wrong while validating the VAT ID.",module,Magento_Customer
+"The customer would belong to Customer Group %s.","The customer would belong to Customer Group %s.",module,Magento_Customer
+"There was an error detecting Customer Group.","There was an error detecting Customer Group.",module,Magento_Customer
+"Validate VAT Number","Validate VAT Number",module,Magento_Customer
+"Customer Login","Customer Login",module,Magento_Customer
+"Create New Customer Account","Create New Customer Account",module,Magento_Customer
+"Date of Birth","Date of Birth",module,Magento_Customer
+"Bad request.","Bad request.",module,Magento_Customer
+"This confirmation key is invalid or has expired.","This confirmation key is invalid or has expired.",module,Magento_Customer
+"There was an error confirming the account","There was an error confirming the account",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.",module,Magento_Customer
+"Thank you for registering with %1.","Thank you for registering with %1.",module,Magento_Customer
+"Please check your email for confirmation key.","Please check your email for confirmation key.",module,Magento_Customer
+"This email does not require confirmation.","This email does not require confirmation.",module,Magento_Customer
+"Wrong email.","Wrong email.",module,Magento_Customer
+"Your password reset link has expired.","Your password reset link has expired.",module,Magento_Customer
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.",module,Magento_Customer
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.",module,Magento_Customer
+"We can't save the customer.","We can't save the customer.",module,Magento_Customer
+"Please make sure your passwords match.","Please make sure your passwords match.",module,Magento_Customer
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.",module,Magento_Customer
+"Account Information","Account Information",module,Magento_Customer
+"You saved the account information.","You saved the account information.",module,Magento_Customer
+"You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_Customer
+"Password confirmation doesn't match entered password.","Password confirmation doesn't match entered password.",module,Magento_Customer
+"The password doesn't match this account.","The password doesn't match this account.",module,Magento_Customer
+"Please correct the email address.","Please correct the email address.",module,Magento_Customer
+"We're unable to send the password reset email.","We're unable to send the password reset email.",module,Magento_Customer
+"Please enter your email.","Please enter your email.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","If there is an account associated with %1 you will receive an email with a link to reset your password.",module,Magento_Customer
+"My Account","My Account",module,Magento_Customer
+"This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.",module,Magento_Customer
+"An unspecified error occurred. Please contact us for assistance.","An unspecified error occurred. Please contact us for assistance.",module,Magento_Customer
+"A login and a password are required.","A login and a password are required.",module,Magento_Customer
+"New Password and Confirm New Password values didn't match.","New Password and Confirm New Password values didn't match.",module,Magento_Customer
+"Please enter a new password.","Please enter a new password.",module,Magento_Customer
+"You updated your password.","You updated your password.",module,Magento_Customer
+"Something went wrong while saving the new password.","Something went wrong while saving the new password.",module,Magento_Customer
+"You deleted the address.","You deleted the address.",module,Magento_Customer
+"We can't delete the address right now.","We can't delete the address right now.",module,Magento_Customer
+"You saved the address.","You saved the address.",module,Magento_Customer
+"We can't save the address.","We can't save the address.",module,Magento_Customer
+"No customer ID defined.","No customer ID defined.",module,Magento_Customer
+"Please correct the quote items and try again.","Please correct the quote items and try again.",module,Magento_Customer
+"You have revoked the customer's tokens.","You have revoked the customer's tokens.",module,Magento_Customer
+"We can't find a customer to revoke.","We can't find a customer to revoke.",module,Magento_Customer
+"Something went wrong while saving file.","Something went wrong while saving file.",module,Magento_Customer
+"You deleted the customer group.","You deleted the customer group.",module,Magento_Customer
+"The customer group no longer exists.","The customer group no longer exists.",module,Magento_Customer
+"Customers","Customers",module,Magento_Customer
+"New Group","New Group",module,Magento_Customer
+"New Customer Groups","New Customer Groups",module,Magento_Customer
+"Edit Group","Edit Group",module,Magento_Customer
+"Edit Customer Groups","Edit Customer Groups",module,Magento_Customer
+"You saved the customer group.","You saved the customer group.",module,Magento_Customer
+"Please select customer(s).","Please select customer(s).",module,Magento_Customer
+"Customer could not be deleted.","Customer could not be deleted.",module,Magento_Customer
+"You deleted the customer.","You deleted the customer.",module,Magento_Customer
+"Something went wrong while editing the customer.","Something went wrong while editing the customer.",module,Magento_Customer
+"Manage Customers","Manage Customers",module,Magento_Customer
+"Please correct the data sent.","Vinsamlegast leiðréttið það sem er sent inn.",module,Magento_Customer
+"A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Customer
+"A total of %1 record(s) were deleted.","A total of %1 record(s) were deleted.",module,Magento_Customer
+"The customer will receive an email with a link to reset password.","The customer will receive an email with a link to reset password.",module,Magento_Customer
+"Something went wrong while resetting customer password.","Something went wrong while resetting customer password.",module,Magento_Customer
+"You saved the customer.","You saved the customer.",module,Magento_Customer
+"Something went wrong while saving the customer.","Something went wrong while saving the customer.",module,Magento_Customer
+"Page not found.","Page not found.",module,Magento_Customer
+"Customer has been unlocked successfully.","Customer has been unlocked successfully.",module,Magento_Customer
+"Online Customers","Online Customers",module,Magento_Customer
+"Customers Now Online","Customers Now Online",module,Magento_Customer
+"Please define Wish List item ID.","Please define Wish List item ID.",module,Magento_Customer
+"Please load Wish List item.","Please load Wish List item.",module,Magento_Customer
+"Login successful.","Login successful.",module,Magento_Customer
+"Invalid login or password.","Invalid login or password.",module,Magento_Customer
+"""%1"" section source is not supported","""%1"" section source is not supported",module,Magento_Customer
+"%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
+"No confirmation needed.","No confirmation needed.",module,Magento_Customer
+"Account already active","Account already active",module,Magento_Customer
+"Invalid confirmation token","Invalid confirmation token",module,Magento_Customer
+"The account is locked.","The account is locked.",module,Magento_Customer
+"This account is not confirmed.","This account is not confirmed.",module,Magento_Customer
+"Invalid value of ""%value"" provided for the %fieldName field. Possible values: %template1 or %template2.","Invalid value of ""%value"" provided for the %fieldName field. Possible values: %template1 or %template2.",module,Magento_Customer
+"Please enter a password with at most %1 characters.","Please enter a password with at most %1 characters.",module,Magento_Customer
+"Please enter a password with at least %1 characters.","Please enter a password with at least %1 characters.",module,Magento_Customer
+"The password can't begin or end with a space.","The password can't begin or end with a space.",module,Magento_Customer
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Customer
+"Password cannot be the same as email address.","Password cannot be the same as email address.",module,Magento_Customer
+"This customer already exists in this store.","This customer already exists in this store.",module,Magento_Customer
+"A customer with the same email already exists in an associated website.","A customer with the same email already exists in an associated website.",module,Magento_Customer
+"Invalid value of ""%value"" provided for the %fieldName field.","Invalid value of ""%value"" provided for the %fieldName field.",module,Magento_Customer
+"%fieldName is a required field.","%fieldName is a required field.",module,Magento_Customer
+"Reset password token mismatch.","Reset password token mismatch.",module,Magento_Customer
+"Reset password token expired.","Reset password token expired.",module,Magento_Customer
+"Please correct the transactional account email type.","Please correct the transactional account email type.",module,Magento_Customer
+"""%1"" is a required value.","""%1"" is a required value.",module,Magento_Customer
+"Global","Global",module,Magento_Customer
+"Per Website","Per Website",module,Magento_Customer
+"We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","We can't share customer accounts globally when the accounts share identical email addresses on more than one website.",module,Magento_Customer
+"Billing Address","Billing Address",module,Magento_Customer
+"Shipping Address","Shipping Address",module,Magento_Customer
+"-- Please Select --","-- Please Select --",module,Magento_Customer
+"Please enter a valid password reset token.","Please enter a valid password reset token.",module,Magento_Customer
+"The password can not begin or end with a space.","The password can not begin or end with a space.",module,Magento_Customer
+"Admin","Admin",module,Magento_Customer
+"ALL GROUPS","ALL GROUPS",module,Magento_Customer
+"No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","No such entity with %fieldName = %fieldValue, %field2Name = %field2Value",module,Magento_Customer
+"File can not be saved to the destination folder.","File can not be saved to the destination folder.",module,Magento_Customer
+"Unable to create directory %1.","Unable to create directory %1.",module,Magento_Customer
+"Destination folder is not writable or does not exists.","Destination folder is not writable or does not exists.",module,Magento_Customer
+"Something went wrong while saving the file.","Something went wrong while saving the file.",module,Magento_Customer
+"Attribute object is undefined","Attribute object is undefined",module,Magento_Customer
+"""%1"" invalid type entered.","""%1"" invalid type entered.",module,Magento_Customer
+"""%1"" contains non-alphabetic or non-numeric characters.","""%1"" contains non-alphabetic or non-numeric characters.",module,Magento_Customer
+"""%1"" is an empty string.","""%1"" is an empty string.",module,Magento_Customer
+"""%1"" contains non-numeric characters.","""%1"" contains non-numeric characters.",module,Magento_Customer
+"""%1"" contains non-alphabetic characters.","""%1"" contains non-alphabetic characters.",module,Magento_Customer
+"""%1"" is not a valid email address.","""%1"" is not a valid email address.",module,Magento_Customer
+"""%1"" is not a valid hostname.","""%1"" is not a valid hostname.",module,Magento_Customer
+"""%1"" uses too many characters.","""%1"" uses too many characters.",module,Magento_Customer
+"'%value%' looks like an IP address, which is not an acceptable format.","'%value%' looks like an IP address, which is not an acceptable format.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but contains a dash in an invalid position.","'%value%' looks like a DNS hostname but contains a dash in an invalid position.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.","'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but cannot extract TLD part.","'%value%' looks like a DNS hostname but cannot extract TLD part.",module,Magento_Customer
+"'%value%' does not look like a valid local network name.","'%value%' does not look like a valid local network name.",module,Magento_Customer
+"'%value%' looks like a local network name, which is not an acceptable format.","'%value%' looks like a local network name, which is not an acceptable format.",module,Magento_Customer
+"'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.","'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.",module,Magento_Customer
+"""%1"" is not a valid URL.","""%1"" is not a valid URL.",module,Magento_Customer
+"""%1"" is not a valid date.","""%1"" is not a valid date.",module,Magento_Customer
+"""%1"" does not fit the entered date format.","""%1"" does not fit the entered date format.",module,Magento_Customer
+"Please enter a valid date between %1 and %2 at %3.","Please enter a valid date between %1 and %2 at %3.",module,Magento_Customer
+"Please enter a valid date equal to or greater than %1 at %2.","Please enter a valid date equal to or greater than %1 at %2.",module,Magento_Customer
+"Please enter a valid date less than or equal to %1 at %2.","Please enter a valid date less than or equal to %1 at %2.",module,Magento_Customer
+"""%1"" is not a valid file extension.","""%1"" is not a valid file extension.",module,Magento_Customer
+"""%1"" is not a valid file.","""%1"" is not a valid file.",module,Magento_Customer
+"""%1"" exceeds the allowed file size.","""%1"" exceeds the allowed file size.",module,Magento_Customer
+"""%1"" is not a valid image format.","""%1"" is not a valid image format.",module,Magento_Customer
+"""%1"" width exceeds allowed value of %2 px.","""%1"" width exceeds allowed value of %2 px.",module,Magento_Customer
+"""%1"" height exceeds allowed value of %2 px.","""%1"" height exceeds allowed value of %2 px.",module,Magento_Customer
+"""%1"" length must be equal or greater than %2 characters.","""%1"" length must be equal or greater than %2 characters.",module,Magento_Customer
+"""%1"" length must be equal or less than %2 characters.","""%1"" length must be equal or less than %2 characters.",module,Magento_Customer
+"label","label",module,Magento_Customer
+"Please enter a customer email.","Please enter a customer email.",module,Magento_Customer
+"A customer website ID must be specified when using the website scope.","A customer website ID must be specified when using the website scope.",module,Magento_Customer
+"Customer Group","Customer Group",module,Magento_Customer
+"You can't delete group ""%1"".","You can't delete group ""%1"".",module,Magento_Customer
+"Customer Group already exists.","Customer Group already exists.",module,Magento_Customer
+"Cannot delete group.","Cannot delete group.",module,Magento_Customer
+"Error during VAT Number verification.","Error during VAT Number verification.",module,Magento_Customer
+"PHP SOAP extension is required.","PHP SOAP extension is required.",module,Magento_Customer
+"VAT Number is valid.","VAT Number is valid.",module,Magento_Customer
+"Please enter a valid VAT number.","Please enter a valid VAT number.",module,Magento_Customer
+"Your VAT ID was successfully validated.","Your VAT ID was successfully validated.",module,Magento_Customer
+"You will be charged tax.","You will be charged tax.",module,Magento_Customer
+"You will not be charged tax.","You will not be charged tax.",module,Magento_Customer
+"The VAT ID entered (%1) is not a valid VAT ID.","The VAT ID entered (%1) is not a valid VAT ID.",module,Magento_Customer
+"Your Tax ID cannot be validated.","Your Tax ID cannot be validated.",module,Magento_Customer
+"If you believe this is an error, please contact us at %1","If you believe this is an error, please contact us at %1",module,Magento_Customer
+"No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Customer
+"Male","Male",module,Magento_Customer
+"Female","Female",module,Magento_Customer
+"Not Specified","Not Specified",module,Magento_Customer
+"Thank you for registering with","Thank you for registering with",module,Magento_Customer
+"enter your billing address for proper VAT calculation","enter your billing address for proper VAT calculation",module,Magento_Customer
+"enter your shipping address for proper VAT calculation","enter your shipping address for proper VAT calculation",module,Magento_Customer
+"Please enter new password.","Please enter new password.",module,Magento_Customer
+"message","message",module,Magento_Customer
+"NoSuchEntityException","NoSuchEntityException",module,Magento_Customer
+"Exception","Exception",module,Magento_Customer
+"InputException.","InputException.",module,Magento_Customer
+"InputException","InputException",module,Magento_Customer
+"Exception message","Exception message",module,Magento_Customer
+"Validator Exception","Validator Exception",module,Magento_Customer
+"Localized Exception","Localized Exception",module,Magento_Customer
+"some error","some error",module,Magento_Customer
+"frontend_label","frontend_label",module,Magento_Customer
+"NOT LOGGED IN","NOT LOGGED IN",module,Magento_Customer
+"Please enter the state/province.","Please enter the state/province.",module,Magento_Customer
+"region is a required field.","region is a required field.",module,Magento_Customer
+"regionId is a required field.","regionId is a required field.",module,Magento_Customer
+"Label","Label",module,Magento_Customer
+"Select...","Select...",module,Magento_Customer
+"Edit","Edit",module,Magento_Customer
+"Visitor","Visitor",module,Magento_Customer
+"Customer","Customer",module,Magento_Customer
+"No item specified.","No item specified.",module,Magento_Customer
+"Are you sure you want to remove this item?","Are you sure you want to remove this item?",module,Magento_Customer
+"Personal Information","Personal Information",module,Magento_Customer
+"Last Logged In:","Last Logged In:",module,Magento_Customer
+"Last Logged In (%1):","Last Logged In (%1):",module,Magento_Customer
+"Account Lock:","Account Lock:",module,Magento_Customer
+"Confirmed email:","Confirmed email:",module,Magento_Customer
+"Account Created:","Account Created:",module,Magento_Customer
+"Account Created on (%1):","Account Created on (%1):",module,Magento_Customer
+"Account Created in:","Account Created in:",module,Magento_Customer
+"Customer Group:","Customer Group:",module,Magento_Customer
+"Default Billing Address","Default Billing Address",module,Magento_Customer
+"Sales Statistics","Sales Statistics",module,Magento_Customer
+"Web Site","Web Site",module,Magento_Customer
+"Store","Store",module,Magento_Customer
+"Store View","Store View",module,Magento_Customer
+"Lifetime Sales","Lifetime Sales",module,Magento_Customer
+"Average Sale","Average Sale",module,Magento_Customer
+"All Store Views","All Store Views",module,Magento_Customer
+"Change","Change",module,Magento_Customer
+"Manage Addresses","Manage Addresses",module,Magento_Customer
+"Default Shipping Address","Default Shipping Address",module,Magento_Customer
+"Contact Information","Contact Information",module,Magento_Customer
+"Change Password","Change Password",module,Magento_Customer
+"Newsletters","Newsletters",module,Magento_Customer
+"You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription"".",module,Magento_Customer
+"or","or",module,Magento_Customer
+"Default Addresses","Default Addresses",module,Magento_Customer
+"Change Billing Address","Change Billing Address",module,Magento_Customer
+"You have no default billing address in your address book.","You have no default billing address in your address book.",module,Magento_Customer
+"Change Shipping Address","Change Shipping Address",module,Magento_Customer
+"You have no default shipping address in your address book.","You have no default shipping address in your address book.",module,Magento_Customer
+"Additional Address Entries","Additional Address Entries",module,Magento_Customer
+"Delete Address","Delete Address",module,Magento_Customer
+"You have no other address entries in your address book.","You have no other address entries in your address book.",module,Magento_Customer
+"* Required Fields","* Required Fields",module,Magento_Customer
+"Address","Address",module,Magento_Customer
+"Street Address","Street Address",module,Magento_Customer
+"Street Address %1","Street Address %1",module,Magento_Customer
+"VAT Number","VAT Number",module,Magento_Customer
+"City","City",module,Magento_Customer
+"State/Province","State/Province",module,Magento_Customer
+"Please select a region, state or province.","Please select a region, state or province.",module,Magento_Customer
+"Zip/Postal Code","Zip/Postal Code",module,Magento_Customer
+"Country","Land",module,Magento_Customer
+"It's a default billing address.","It's a default billing address.",module,Magento_Customer
+"Use as my default billing address","Use as my default billing address",module,Magento_Customer
+"It's a default shipping address.","It's a default shipping address.",module,Magento_Customer
+"Use as my default shipping address","Use as my default shipping address",module,Magento_Customer
+"Save Address","Save Address",module,Magento_Customer
+"Go back","Go back",module,Magento_Customer
+"Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link.",module,Magento_Customer
+"Email","Email",module,Magento_Customer
+"Send confirmation link","Send confirmation link",module,Magento_Customer
+"Back to Sign In","Back to Sign In",module,Magento_Customer
+"Change Email","Change Email",module,Magento_Customer
+"Change Email and Password","Change Email and Password",module,Magento_Customer
+"Current Password","Current Password",module,Magento_Customer
+"New Password","New Password",module,Magento_Customer
+"Password Strength","Password Strength",module,Magento_Customer
+"No Password","No Password",module,Magento_Customer
+"Confirm New Password","Confirm New Password",module,Magento_Customer
+"Save","Save",module,Magento_Customer
+"Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link.",module,Magento_Customer
+"Reset My Password","Reset My Password",module,Magento_Customer
+"Registered Customers","Registered Customers",module,Magento_Customer
+"If you have an account, sign in with your email address.","If you have an account, sign in with your email address.",module,Magento_Customer
+"Password","Password",module,Magento_Customer
+"Forgot Your Password?","Forgot Your Password?",module,Magento_Customer
+"Subscription option","Subscription option",module,Magento_Customer
+"General Subscription","General Subscription",module,Magento_Customer
+"Sign Up for Newsletter","Sign Up for Newsletter",module,Magento_Customer
+"Address Information","Address Information",module,Magento_Customer
+"Sign-in Information","Sign-in Information",module,Magento_Customer
+"Confirm Password","Confirm Password",module,Magento_Customer
+"Create an Account","Create an Account",module,Magento_Customer
+"Set a New Password","Set a New Password",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
+"New Customers","New Customers",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Creating an account has many benefits: check out faster, keep more than one address, track orders and more.",module,Magento_Customer
+"Company","Company",module,Magento_Customer
+"Fax","Fax",module,Magento_Customer
+"Gender","Gender",module,Magento_Customer
+"Name","Name",module,Magento_Customer
+"Tax/VAT number","Tax/VAT number",module,Magento_Customer
+"Phone Number","Phone Number",module,Magento_Customer
+"Welcome to %store_name","Welcome to %store_name",module,Magento_Customer
+"%name,","%name,",module,Magento_Customer
+"Welcome to %store_name.","Welcome to %store_name.",module,Magento_Customer
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Customer
+"Email:","Email:",module,Magento_Customer
+"Password:","Password:",module,Magento_Customer
+"Password you set when creating account","Password you set when creating account",module,Magento_Customer
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",module,Magento_Customer
+"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Customer
+"Proceed through checkout faster","Proceed through checkout faster",module,Magento_Customer
+"Check the status of orders","Check the status of orders",module,Magento_Customer
+"View past orders","View past orders",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for shipping to multiple family members and friends)",module,Magento_Customer
+"Please confirm your %store_name account","Please confirm your %store_name account",module,Magento_Customer
+"You must confirm your %customer_email email before you can sign in (link is only valid once):","You must confirm your %customer_email email before you can sign in (link is only valid once):",module,Magento_Customer
+"Confirm Your Account","Confirm Your Account",module,Magento_Customer
+"Thank you for confirming your %store_name account.","Thank you for confirming your %store_name account.",module,Magento_Customer
+"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:",module,Magento_Customer
+"Your %store_name email has been changed","Your %store_name email has been changed",module,Magento_Customer
+"Hello,","Hello,",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email.","We have received a request to change the following information associated with your account at %store_name: email.",module,Magento_Customer
+"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
+"Thanks,<br>%store_name","Thanks,<br>%store_name",module,Magento_Customer
+"Your %store_name email and password has been changed","Your %store_name email and password has been changed",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email, password.","We have received a request to change the following information associated with your account at %store_name: email, password.",module,Magento_Customer
+"Reset your %store_name password","Reset your %store_name password",module,Magento_Customer
+"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_Customer
+"If you requested this change, set a new password here:","If you requested this change, set a new password here:",module,Magento_Customer
+"If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_Customer
+"Your %store_name password has been changed","Your %store_name password has been changed",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: password.","We have received a request to change the following information associated with your account at %store_name: password.",module,Magento_Customer
+"Checkout as a new customer","Checkout as a new customer",module,Magento_Customer
+"Creating an account has many benefits:","Creating an account has many benefits:",module,Magento_Customer
+"See order and shipping status","See order and shipping status",module,Magento_Customer
+"Track order history","Track order history",module,Magento_Customer
+"Check out faster","Check out faster",module,Magento_Customer
+"Checkout using your account","Checkout using your account",module,Magento_Customer
+"Email Address","Email Address",module,Magento_Customer
+"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Customer
+"Are you sure you want to delete this address?","Are you sure you want to delete this address?",module,Magento_Customer
+"Weak","Weak",module,Magento_Customer
+"Medium","Medium",module,Magento_Customer
+"Strong","Strong",module,Magento_Customer
+"Very Strong","Very Strong",module,Magento_Customer
+"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
+"All Customers","All Customers",module,Magento_Customer
+"Now Online","Now Online",module,Magento_Customer
+"Customers Section","Customers Section",module,Magento_Customer
+"Customer Configuration","Customer Configuration",module,Magento_Customer
+"Account Sharing Options","Account Sharing Options",module,Magento_Customer
+"Share Customer Accounts","Share Customer Accounts",module,Magento_Customer
+"Create New Account Options","Create New Account Options",module,Magento_Customer
+"Enable Automatic Assignment to Customer Group","Enable Automatic Assignment to Customer Group",module,Magento_Customer
+"Tax Calculation Based On","Tax Calculation Based On",module,Magento_Customer
+"Default Group","Default Group",module,Magento_Customer
+"Group for Valid VAT ID - Domestic","Group for Valid VAT ID - Domestic",module,Magento_Customer
+"Group for Valid VAT ID - Intra-Union","Group for Valid VAT ID - Intra-Union",module,Magento_Customer
+"Group for Invalid VAT ID","Group for Invalid VAT ID",module,Magento_Customer
+"Validation Error Group","Validation Error Group",module,Magento_Customer
+"Validate on Each Transaction","Validate on Each Transaction",module,Magento_Customer
+"Default Value for Disable Automatic Group Changes Based on VAT ID","Default Value for Disable Automatic Group Changes Based on VAT ID",module,Magento_Customer
+"Show VAT Number on Storefront","Show VAT Number on Storefront",module,Magento_Customer
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.",module,Magento_Customer
+"Default Email Domain","Default Email Domain",module,Magento_Customer
+"Default Welcome Email","Default Welcome Email",module,Magento_Customer
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Customer
+"Default Welcome Email Without Password","Default Welcome Email Without Password",module,Magento_Customer
+"This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />,module,Magento_Customer
+Email template chosen based on theme fallback when ""Default"" option is selected.","This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />,module,Magento_Customer
+Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Customer
+"Email Sender","Email Sender",module,Magento_Customer
+"Require Emails Confirmation","Require Emails Confirmation",module,Magento_Customer
+"Confirmation Link Email","Confirmation Link Email",module,Magento_Customer
+"Welcome Email","Welcome Email",module,Magento_Customer
+"This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />,module,Magento_Customer
+Email template chosen based on theme fallback when ""Default"" option is selected.","This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />,module,Magento_Customer
+Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Customer
+"Generate Human-Friendly Customer ID","Generate Human-Friendly Customer ID",module,Magento_Customer
+"Password Options","Password Options",module,Magento_Customer
+"Forgot Email Template","Forgot Email Template",module,Magento_Customer
+"Remind Email Template","Remind Email Template",module,Magento_Customer
+"Reset Password Template","Reset Password Template",module,Magento_Customer
+"Password Template Email Sender","Password Template Email Sender",module,Magento_Customer
+"Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Customer
+"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field.",module,Magento_Customer
+"Number of Required Character Classes","Number of Required Character Classes",module,Magento_Customer
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.",module,Magento_Customer
+"Minimum Password Length","Minimum Password Length",module,Magento_Customer
+"Maximum Login Failures to Lockout Account","Maximum Login Failures to Lockout Account",module,Magento_Customer
+"Use 0 to disable account locking.","Use 0 to disable account locking.",module,Magento_Customer
+"Lockout Time (minutes)","Lockout Time (minutes)",module,Magento_Customer
+"Enable Autocomplete on login/forgot password forms","Enable Autocomplete on login/forgot password forms",module,Magento_Customer
+"Account Information Options","Account Information Options",module,Magento_Customer
+"Change Email Template","Change Email Template",module,Magento_Customer
+"Change Email and Password Template","Change Email and Password Template",module,Magento_Customer
+"Name and Address Options","Name and Address Options",module,Magento_Customer
+"Number of Lines in a Street Address","Number of Lines in a Street Address",module,Magento_Customer
+"Valid range: 1-4","Valid range: 1-4",module,Magento_Customer
+"Show Prefix","Show Prefix",module,Magento_Customer
+"The title that goes before name (Mr., Mrs., etc.)","The title that goes before name (Mr., Mrs., etc.)",module,Magento_Customer
+"Prefix Dropdown Options","Prefix Dropdown Options",module,Magento_Customer
+"Semicolon (;) separated values.<br/>Leave empty for open text field.","Semicolon (;) separated values.<br/>Leave empty for open text field.",module,Magento_Customer
+"Show Middle Name (initial)","Show Middle Name (initial)",module,Magento_Customer
+"Always optional.","Always optional.",module,Magento_Customer
+"Show Suffix","Show Suffix",module,Magento_Customer
+"The suffix that goes after name (Jr., Sr., etc.)","The suffix that goes after name (Jr., Sr., etc.)",module,Magento_Customer
+"Suffix Dropdown Options","Suffix Dropdown Options",module,Magento_Customer
+"Show Date of Birth","Show Date of Birth",module,Magento_Customer
+"Show Tax/VAT Number","Show Tax/VAT Number",module,Magento_Customer
+"Show Gender","Show Gender",module,Magento_Customer
+"Show Telephone","Show Telephone",module,Magento_Customer
+"Show Company","Show Company",module,Magento_Customer
+"Show Fax","Show Fax",module,Magento_Customer
+"Login Options","Innskráningsmöguleikar",module,Magento_Customer
+"Redirect Customer to Account Dashboard after Logging in","Redirect Customer to Account Dashboard after Logging in",module,Magento_Customer
+"Customer will stay on the current page if ""No"" is selected.","Customer will stay on the current page if ""No"" is selected.",module,Magento_Customer
+"Address Templates","Address Templates",module,Magento_Customer
+"Online Customers Options","Online Customers Options",module,Magento_Customer
+"Online Minutes Interval","Online Minutes Interval",module,Magento_Customer
+"Leave empty for default (15 minutes).","Leave empty for default (15 minutes).",module,Magento_Customer
+"Customer Data Lifetime","Customer Data Lifetime",module,Magento_Customer
+"Please specify value in minutes.","Please specify value in minutes.",module,Magento_Customer
+"Customer Notification","Customer Notification",module,Magento_Customer
+"Assign a Customer Group","Assign a Customer Group",module,Magento_Customer
+"Are you sure to assign selected customers to new group?","Are you sure to assign selected customers to new group?",module,Magento_Customer
+"Customer Grid","Customer Grid",module,Magento_Customer
+"Rebuild Customer grid index","Rebuild Customer grid index",module,Magento_Customer
+"Group","Group",module,Magento_Customer
+"Add New Customer","Add New Customer",module,Magento_Customer
+"Are you sure to delete selected customers?","Are you sure to delete selected customers?",module,Magento_Customer
+"Delete items","Delete items",module,Magento_Customer
+"Subscribe to Newsletter","Subscribe to Newsletter",module,Magento_Customer
+"Are you sure to unsubscribe selected customers from newsletter?","Are you sure to unsubscribe selected customers from newsletter?",module,Magento_Customer
+"Unsubscribe from Newsletter","Unsubscribe from Newsletter",module,Magento_Customer
+"Phone","Phone",module,Magento_Customer
+"ZIP","ZIP",module,Magento_Customer
+"Customer Since","Customer Since",module,Magento_Customer
+"Confirmed email","Confirmed email",module,Magento_Customer
+"Account Created in","Account Created in",module,Magento_Customer
+"Tax VAT Number","Tax VAT Number",module,Magento_Customer
+"Billing Firstname","Billing Firstname",module,Magento_Customer
+"Billing Lastname","Billing Lastname",module,Magento_Customer
+"Account Lock","Account Lock",module,Magento_Customer
+"First Name","First Name",module,Magento_Customer
+"Last Name","Last Name",module,Magento_Customer
+"Last Activity","Last Activity",module,Magento_Customer
+"Type","Type",module,Magento_Customer
+"Customer Information","Customer Information",module,Magento_Customer
+"If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.","If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.",module,Magento_Customer
+"Disable Automatic Group Change Based on VAT ID","Disable Automatic Group Change Based on VAT ID",module,Magento_Customer
+"Send Welcome Email From","Send Welcome Email From",module,Magento_Customer
+"Are you sure you want to delete this item?","Are you sure you want to delete this item?",module,Magento_Customer
+"Addresses","Addresses",module,Magento_Customer
+"Account Dashboard","Account Dashboard",module,Magento_Customer
+"Edit Account Information","Edit Account Information",module,Magento_Customer
+"Password forgotten","Password forgotten",module,Magento_Customer
+"My Dashboard","My Dashboard",module,Magento_Customer
+"You are signed out","You are signed out",module,Magento_Customer
+"You subscribe to our newsletter.","You subscribe to our newsletter.",module,Magento_Customer
+"You don't subscribe to our newsletter.","You don't subscribe to our newsletter.",module,Magento_Customer
+"Maximum length must be less then %1 symbols","Maximum length must be less then %1 symbols",module,Magento_Customer
+"Invalid input","Invalid input",module,Magento_Customer
+"Confirm your new password.","Confirm your new password.",module,Magento_Customer
+"Something went wrong while changing the password.","Something went wrong while changing the password.",module,Magento_Customer
+"Please enter the first name.","Please enter the first name.",module,Magento_Customer
+"Please enter the last name.","Please enter the last name.",module,Magento_Customer
+"Please enter the street.","Please enter the street.",module,Magento_Customer
+"Please enter the city.","Please enter the city.",module,Magento_Customer
+"Please enter the phone number.","Please enter the phone number.",module,Magento_Customer
+"Please enter the zip/postal code.","Please enter the zip/postal code.",module,Magento_Customer
+"Please enter the country.","Please enter the country.",module,Magento_Customer
+"Please enter a first name.","Please enter a first name.",module,Magento_Customer
+"Please enter a last name.","Please enter a last name.",module,Magento_Customer
+"Please correct this email address: ""%1"".","Please correct this email address: ""%1"".",module,Magento_Customer
+"Please enter a date of birth.","Please enter a date of birth.",module,Magento_Customer
+"Please enter a TAX/VAT number.","Please enter a TAX/VAT number.",module,Magento_Customer
+"Please enter a gender.","Please enter a gender.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","'%value%' looks like a DNS hostname but we cannot match the TLD against known list.",module,Magento_Customer
+"You subscribe to ""General Subscription"".","You subscribe to ""General Subscription"".",module,Magento_Customer
+"Submit","Submit",module,Magento_Customer
+"Login","Innskráning",module,Magento_Customer
+"The password for your account has been successfully changed.","The password for your account has been successfully changed.",module,Magento_Customer
+"If you did not request this change, please contact us.","If you did not request this change, please contact us.",module,Magento_Customer
+"Checkout out as a new customer","Checkout out as a new customer",module,Magento_Customer
+"Create Account","Create Account",module,Magento_Customer
+"Checkout out using your account","Checkout out using your account",module,Magento_Customer
+"Recovery Link Expiration Period (days)","Recovery Link Expiration Period (days)",module,Magento_Customer
+"Leave empty for default (2). Valid range: 1-4","Leave empty for default (2). Valid range: 1-4",module,Magento_Customer
+"Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.",module,Magento_Customer
+"Last Logged In","Last Logged In",module,Magento_Customer
+"If your Magento site has multiple views, you can set the scope to apply to a specific view.","If your Magento site has multiple views, you can set the scope to apply to a specific view.",module,Magento_Customer
+"You are signed out.","You are signed out.",module,Magento_Customer
+"Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2.","Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2.",module,Magento_Customer
+"Could not authenticate. Please try again later","Could not authenticate. Please try again later",module,Magento_Customer
+"Page not found","Page not found",module,Magento_Customer
+"Account will be unlocked after provided time.","Account will be unlocked after provided time.",module,Magento_Customer
+"Text","Text",module,Magento_Customer
+"Text One Line","Text One Line",module,Magento_Customer
+"HTML","HTML",module,Magento_Customer
+"PDF","PDF",module,Magento_Customer
+"The account is locked. Please wait and try again or contact %1.","The account is locked. Please wait and try again or contact %1.",module,Magento_Customer
+"Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Customer
+" Example: "," Example: ",module,Magento_Customer
+"If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Customer
+"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Customer
+"The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again.",module,Magento_Customer
+"The email address is incorrect. Verify the email address and try again.","The email address is incorrect. Verify the email address and try again.",module,Magento_Customer
+"The customer ID isn't defined.","The customer ID isn't defined.",module,Magento_Customer
+"The quote items are incorrect. Verify the quote items and try again.","The quote items are incorrect. Verify the quote items and try again.",module,Magento_Customer
+"The ""%1"" section source isn't supported.","The ""%1"" section source isn't supported.",module,Magento_Customer
+"Confirmation isn't needed.","Confirmation isn't needed.",module,Magento_Customer
+"The account is already active.","The account is already active.",module,Magento_Customer
+"The confirmation token is invalid. Verify the token and try again.","The confirmation token is invalid. Verify the token and try again.",module,Magento_Customer
+"This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_Customer
+"The password needs at least %1 characters. Create a new password and try again.","The password needs at least %1 characters. Create a new password and try again.",module,Magento_Customer
+"The password can't begin or end with a space. Verify the password and try again.","The password can't begin or end with a space. Verify the password and try again.",module,Magento_Customer
+"The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",module,Magento_Customer
+"The store view is not in the associated website.","The store view is not in the associated website.",module,Magento_Customer
+"A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_Customer
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Customer
+"The password token is mismatched. Reset and try again.","The password token is mismatched. Reset and try again.",module,Magento_Customer
+"The password token is expired. Reset and try again.","The password token is expired. Reset and try again.",module,Magento_Customer
+"The transactional account email type is incorrect. Verify and try again.","The transactional account email type is incorrect. Verify and try again.",module,Magento_Customer
+"A valid password reset token is missing. Enter and try again.","A valid password reset token is missing. Enter and try again.",module,Magento_Customer
+"The customer email is missing. Enter and try again.","The customer email is missing. Enter and try again.",module,Magento_Customer
+"A customer website ID wasn't specified. The ID must be specified to use the website scope.","A customer website ID wasn't specified. The ID must be specified to use the website scope.",module,Magento_Customer
+"""regionId"" is required. Enter and try again.","""regionId"" is required. Enter and try again.",module,Magento_Customer
+"Delete %1","Delete %1",module,Magento_Customer
+"Are you sure you want to delete a %1 record?","Are you sure you want to delete a %1 record?",module,Magento_Customer
+"Customer not logged in","Customer not logged in",module,Magento_Customer
+"There is no address id in setting default billing address.","There is no address id in setting default billing address.",module,Magento_Customer
+"Default billing address has been changed.","Default billing address has been changed.",module,Magento_Customer
+"We can't change default billing address right now.","We can't change default billing address right now.",module,Magento_Customer
+"There is no address id in setting default shipping address.","There is no address id in setting default shipping address.",module,Magento_Customer
+"Default shipping address has been changed.","Default shipping address has been changed.",module,Magento_Customer
+"We can't change default shipping address right now.","We can't change default shipping address right now.",module,Magento_Customer
+"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Customer
+"There is no such address entity to delete.","There is no such address entity to delete.",module,Magento_Customer
+"We can't mass delete the addresses right now.","We can't mass delete the addresses right now.",module,Magento_Customer
+"Customer address has been updated.","Customer address has been updated.",module,Magento_Customer
+"New customer address has been added.","New customer address has been added.",module,Magento_Customer
+"There is no customer with such id.","There is no customer with such id.",module,Magento_Customer
+"We can't change customer address right now.","We can't change customer address right now.",module,Magento_Customer
+"Street","Street",module,Magento_Customer
+"Set as default billing","Set as default billing",module,Magento_Customer
+"Set address as default billing","Set address as default billing",module,Magento_Customer
+"Are you sure you want to set the address as default billing address?","Are you sure you want to set the address as default billing address?",module,Magento_Customer
+"Set as default shipping","Set as default shipping",module,Magento_Customer
+"Set address as default shipping","Set address as default shipping",module,Magento_Customer
+"Are you sure you want to set the address as default shipping address?","Are you sure you want to set the address as default shipping address?",module,Magento_Customer
+"Delete address","Delete address",module,Magento_Customer
+"Are you sure you want to delete the address?","Are you sure you want to delete the address?",module,Magento_Customer
+"Additional addresses","Additional addresses",module,Magento_Customer
+"State","State",module,Magento_Customer
+"Actions","Actions",module,Magento_Customer
+"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Customer
+"Reset password","Reset password",module,Magento_Customer
+"Invalidate tokens","Invalidate tokens",module,Magento_Customer
+"Update Address","Update Address",module,Magento_Customer
+"Name Prefix","Name Prefix",module,Magento_Customer
+"Name Suffix","Name Suffix",module,Magento_Customer
+"Middle Name/Initial","Middle Name/Initial",module,Magento_Customer
+"Are you sure to delete selected address?","Are you sure to delete selected address?",module,Magento_Customer
+"Are you sure you want to delete the selected customers?","Are you sure you want to delete the selected customers?",module,Magento_Customer
+"Are you sure you want to unsubscribe the selected customers from the newsletter?","Are you sure you want to unsubscribe the selected customers from the newsletter?",module,Magento_Customer
+"The customer does not have default billing address","The customer does not have default billing address",module,Magento_Customer
+"The customer does not have default shipping address","The customer does not have default shipping address",module,Magento_Customer
+"Store Credit","Store Credit",module,Magento_CustomerBalance
+"Delete Orphan Balances","Delete Orphan Balances",module,Magento_CustomerBalance
+"Date","Date",module,Magento_CustomerBalance
+"Website","Website",module,Magento_CustomerBalance
+"Action","Action",module,Magento_CustomerBalance
+"Balance Change","Balance Change",module,Magento_CustomerBalance
+"Balance","Balance",module,Magento_CustomerBalance
+"Customer notified","Customer notified",module,Magento_CustomerBalance
+"Notified","Notified",module,Magento_CustomerBalance
+"No","No",module,Magento_CustomerBalance
+"More information","More information",module,Magento_CustomerBalance
+"Update Balance","Update Balance",module,Magento_CustomerBalance
+"An amount on which to change the balance","An amount on which to change the balance",module,Magento_CustomerBalance
+"Notify Customer by Email","Notify Customer by Email",module,Magento_CustomerBalance
+"Send Email Notification From the Following Store View","Send Email Notification From the Following Store View",module,Magento_CustomerBalance
+"Comment","Comment",module,Magento_CustomerBalance
+"Failed to initialize customer","Failed to initialize customer",module,Magento_CustomerBalance
+"The store credit payment has been removed from shopping cart.","The store credit payment has been removed from shopping cart.",module,Magento_CustomerBalance
+"You are not using store credit in your shopping cart.","You are not using store credit in your shopping cart.",module,Magento_CustomerBalance
+"Please set a website ID.","Please set a website ID.",module,Magento_CustomerBalance
+"By admin: %1.","By admin: %1.",module,Magento_CustomerBalance
+"By admin: %1. (%2)","By admin: %1. (%2)",module,Magento_CustomerBalance
+"Please also set the Store ID.","Please also set the Store ID.",module,Magento_CustomerBalance
+"Please enter a store ID to send email notifications.","Please enter a store ID to send email notifications.",module,Magento_CustomerBalance
+"Please specify a customer ID.","Please specify a customer ID.",module,Magento_CustomerBalance
+"Please specify a valid customer.","Please specify a valid customer.",module,Magento_CustomerBalance
+"Created","Created",module,Magento_CustomerBalance
+"Updated","Updated",module,Magento_CustomerBalance
+"Used","Used",module,Magento_CustomerBalance
+"Refunded","Refunded",module,Magento_CustomerBalance
+"Reverted","Reverted",module,Magento_CustomerBalance
+"You need a balance to save your balance history.","You need a balance to save your balance history.",module,Magento_CustomerBalance
+"Order #%1","Order #%1",module,Magento_CustomerBalance
+"There is no credit memo set to balance model.","There is no credit memo set to balance model.",module,Magento_CustomerBalance
+"Order #%1, creditmemo #%2","Order #%1, creditmemo #%2",module,Magento_CustomerBalance
+"Unknown balance history action code","Unknown balance history action code",module,Magento_CustomerBalance
+"There is no order set to balance model.","There is no order set to balance model.",module,Magento_CustomerBalance
+"You do not have enough store credit to complete this order.","You do not have enough store credit to complete this order.",module,Magento_CustomerBalance
+"You can't use more store credit than the order amount.","You can't use more store credit than the order amount.",module,Magento_CustomerBalance
+"Store Credit Balance","Store Credit Balance",module,Magento_CustomerBalance
+"Balance History","Balance History",module,Magento_CustomerBalance
+"Refund Store Credit to Store Credit","Refund Store Credit to Store Credit",module,Magento_CustomerBalance
+"Refund Money to Store Credit","Refund Money to Store Credit",module,Magento_CustomerBalance
+"Refund to Store Credit","Refund to Store Credit",module,Magento_CustomerBalance
+"Use Store Credit (%1 available)","Use Store Credit (%1 available)",module,Magento_CustomerBalance
+"Your balance is:","Your balance is:",module,Magento_CustomerBalance
+"Use Store Credit","Use Store Credit",module,Magento_CustomerBalance
+"available","available",module,Magento_CustomerBalance
+"Remove","Fjarlægja",module,Magento_CustomerBalance
+"Refunded to Store Credit","Refunded to Store Credit",module,Magento_CustomerBalance
+"Store Credit update","Store Credit update",module,Magento_CustomerBalance
+"%name,","%name,",module,Magento_CustomerBalance
+"We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.",module,Magento_CustomerBalance
+"Your Store Credit balance is now %balance.","Your Store Credit balance is now %balance.",module,Magento_CustomerBalance
+"Store credit","Store credit",module,Magento_CustomerBalance
+"Store credit available","Store credit available",module,Magento_CustomerBalance
+"Your store credit was successfully applied","Your store credit was successfully applied",module,Magento_CustomerBalance
+"Store Credit Options","Store Credit Options",module,Magento_CustomerBalance
+"Enable Store Credit Functionality","Enable Store Credit Functionality",module,Magento_CustomerBalance
+"Show Store Credit History to Customers","Show Store Credit History to Customers",module,Magento_CustomerBalance
+"Refund Store Credit Automatically","Refund Store Credit Automatically",module,Magento_CustomerBalance
+"Store Credit Update Email Sender","Store Credit Update Email Sender",module,Magento_CustomerBalance
+"Store Credit Update Email Template","Store Credit Update Email Template",module,Magento_CustomerBalance
+"A balance is needed to save a balance history.","A balance is needed to save a balance history.",module,Magento_CustomerBalance
+"The balance history action code is unknown. Verify the code and try again.","The balance history action code is unknown. Verify the code and try again.",module,Magento_CustomerBalance
